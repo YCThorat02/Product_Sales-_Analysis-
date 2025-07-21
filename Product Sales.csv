@@ -1,0 +1,1001 @@
+Transaction ID,Product,Quantity,Unit Price (INR),Date,Customer Name,State,Country,Sales Channel,Payment Type,Sales
+TX0001,Smartwatch,9,8941,2024-04-12,Vivaan Sastry,Arunachal Pradesh,India,Store,Credit Card,80469
+TX0002,Desktop PC,9,19827,2024-02-06,Ishaan Madan,Odisha,India,Store,Credit Card,178443
+TX0003,Desktop PC,4,16640,2023-12-16,Azad Sandhu,Bihar,India,Online,Credit Card,66560
+TX0004,E-Reader,3,2945,2024-09-11,Shray Chawla,Manipur,India,Online,Credit Card,8835
+TX0005,Laptop,4,2848,2023-10-24,Zara Kata,Madhya Pradesh,India,Direct,Net Banking,11392
+TX0006,Laptop,7,18703,2023-12-24,Vritika Kata,Meghalaya,India,Store,Net Banking,130921
+TX0007,Tablet,4,9640,2023-11-27,Hrishita Dada,Goa,India,Store,Credit Card,38560
+TX0008,External Hard Drive,7,15189,2024-07-13,Anaya Sachar,Punjab,India,Online,Debit Card,106323
+TX0009,Tablet,6,4093,2024-01-30,Indrans Jani,Meghalaya,India,Online,UPI,24558
+TX0010,Smartphone,8,7088,2023-11-15,Shaan Dhar,Assam,India,Online,UPI,56704
+TX0011,Smartwatch,1,11790,2024-07-03,Lavanya Lal,Sikkim,India,Online,UPI,11790
+TX0012,Headphones,9,19740,2024-09-11,Prisha Bakshi,Assam,India,Direct,Credit Card,177660
+TX0013,Printer,5,19143,2024-09-17,Abram Shetty,Tripura,India,Store,UPI,95715
+TX0014,Desktop PC,7,5387,2023-10-24,Anaya Sunder,Karnataka,India,Online,Debit Card,37709
+TX0015,Desktop PC,6,19724,2023-12-21,Farhan Mand,Manipur,India,Direct,Debit Card,118344
+TX0016,Camera,9,7785,2024-02-15,Nakul Hora,Uttar Pradesh,India,Direct,Debit Card,70065
+TX0017,Smartwatch,3,7262,2023-12-03,Rhea Hegde,Odisha,India,Online,Cash,21786
+TX0018,Printer,4,2877,2024-04-21,Shanaya Desai,Andhra Pradesh,India,Online,Cash,11508
+TX0019,Printer,8,9997,2023-11-30,Miraan Rastogi,Gujarat,India,Direct,Debit Card,79976
+TX0020,Printer,6,2081,2024-08-02,Dharmajan Wable,Assam,India,Store,Cash,12486
+TX0021,Laptop,4,4246,2024-07-25,Myra Chanda,Uttar Pradesh,India,Online,Cash,16984
+TX0022,Laptop,5,14316,2024-05-25,Lavanya Koshy,Arunachal Pradesh,India,Direct,UPI,71580
+TX0023,E-Reader,6,18074,2024-02-07,Gokul Devi,Telangana,India,Online,Credit Card,108444
+TX0024,Camera,4,14772,2023-11-04,Miraya Sahota,Kerala,India,Direct,Net Banking,59088
+TX0025,Headphones,4,14215,2024-01-22,Hansh Rau,Kerala,India,Direct,Debit Card,56860
+TX0026,External Hard Drive,8,6274,2024-01-27,Heer Gole,Punjab,India,Direct,Cash,50192
+TX0027,External Hard Drive,8,5670,2024-07-01,Divyansh Ahluwalia,Mizoram,India,Store,Cash,45360
+TX0028,Desktop PC,4,8325,2023-11-06,Damini Bhat,Nagaland,India,Online,Cash,33300
+TX0029,Desktop PC,3,13195,2024-07-02,Renee Subramanian,Uttar Pradesh,India,Store,Credit Card,39585
+TX0030,E-Reader,4,7947,2023-09-27,Keya Chacko,Mizoram,India,Direct,Net Banking,31788
+TX0031,E-Reader,8,11358,2023-12-15,Hiran Kata,Uttarakhand,India,Store,UPI,90864
+TX0032,Camera,8,15744,2024-01-29,Shalv Sodhi,Arunachal Pradesh,India,Online,Debit Card,125952
+TX0033,Camera,6,3080,2023-12-27,Shlok Chopra,Bihar,India,Online,Cash,18480
+TX0034,Smartwatch,2,3896,2024-09-02,Heer Borra,Assam,India,Online,Net Banking,7792
+TX0035,Laptop,3,12383,2024-06-14,Armaan Chand,Telangana,India,Store,Credit Card,37149
+TX0036,External Hard Drive,3,10823,2024-09-11,Saira Zachariah,Mizoram,India,Online,UPI,32469
+TX0037,External Hard Drive,9,5049,2024-08-01,Damini Samra,Chhattisgarh,India,Store,UPI,45441
+TX0038,Tablet,2,12548,2023-12-13,Eshani Tara,Gujarat,India,Online,Credit Card,25096
+TX0039,Printer,6,8432,2023-12-25,Hiran Dyal,Arunachal Pradesh,India,Direct,Credit Card,50592
+TX0040,E-Reader,9,13351,2024-08-08,Advika Seshadri,Mizoram,India,Direct,Debit Card,120159
+TX0041,Camera,5,16286,2024-08-12,Veer Soman,Chhattisgarh,India,Direct,Net Banking,81430
+TX0042,Laptop,1,4978,2024-03-31,Amira Badal,Himachal Pradesh,India,Direct,Cash,4978
+TX0043,Tablet,3,10629,2024-09-22,Ryan Sidhu,Kerala,India,Store,Cash,31887
+TX0044,Camera,6,7312,2024-09-10,Nayantara Issac,Odisha,India,Store,Net Banking,43872
+TX0045,Smartwatch,6,5963,2024-04-18,Neelofar Kohli,Rajasthan,India,Online,Debit Card,35778
+TX0046,Desktop PC,1,4437,2023-10-16,Zaina Sani,Kerala,India,Direct,UPI,4437
+TX0047,Smartwatch,9,9000,2024-08-14,Dhanuk Dasgupta,Sikkim,India,Store,UPI,81000
+TX0048,Smartwatch,2,4321,2024-02-06,Nakul Lalla,Uttarakhand,India,Direct,Credit Card,8642
+TX0049,Printer,2,12180,2024-05-13,Indrajit Chandra,Andhra Pradesh,India,Store,Credit Card,24360
+TX0050,Laptop,1,4360,2024-05-13,Pihu Garg,Bihar,India,Store,Debit Card,4360
+TX0051,Printer,4,12400,2024-06-02,Shayak Dixit,Tripura,India,Direct,Cash,49600
+TX0052,Smartphone,9,15553,2024-04-30,Mishti Sahota,Manipur,India,Online,Credit Card,139977
+TX0053,Tablet,9,2337,2023-10-04,Alia Rama,West Bengal,India,Direct,Credit Card,21033
+TX0054,Desktop PC,5,18457,2024-03-07,Adira Suresh,Gujarat,India,Direct,UPI,92285
+TX0055,Laptop,5,19124,2024-08-23,Aradhya Sarin,Telangana,India,Direct,Credit Card,95620
+TX0056,External Hard Drive,1,5248,2023-09-27,Tejas Kohli,Jharkhand,India,Direct,Cash,5248
+TX0057,Camera,4,2739,2024-03-22,Alisha Zachariah,Andhra Pradesh,India,Store,Credit Card,10956
+TX0058,E-Reader,8,15728,2024-06-07,Divyansh Sami,Uttar Pradesh,India,Online,Debit Card,125824
+TX0059,Smartphone,4,7390,2024-02-01,Aarav Yohannan,Andhra Pradesh,India,Online,UPI,29560
+TX0060,Desktop PC,3,10604,2024-02-02,Lakshay Ramachandran,Haryana,India,Online,Net Banking,31812
+TX0061,Tablet,2,6267,2024-08-03,Trisha Sami,Chhattisgarh,India,Direct,Credit Card,12534
+TX0062,External Hard Drive,2,15409,2023-10-03,Mishti Rout,Sikkim,India,Store,UPI,30818
+TX0063,Desktop PC,3,18562,2024-07-04,Madhup Bhatti,Assam,India,Direct,Cash,55686
+TX0064,Smartwatch,2,12242,2023-10-02,Myra Gala,Karnataka,India,Online,Credit Card,24484
+TX0065,Smartwatch,5,10977,2024-08-22,Prisha Gade,West Bengal,India,Store,Debit Card,54885
+TX0066,E-Reader,3,19091,2024-09-20,Kavya Chaudry,West Bengal,India,Online,Net Banking,57273
+TX0067,Tablet,6,11557,2024-04-22,Anika Virk,Himachal Pradesh,India,Online,Cash,69342
+TX0068,External Hard Drive,6,16181,2024-06-01,Tara Shukla,Kerala,India,Store,Debit Card,97086
+TX0069,Smartwatch,6,17480,2024-03-12,Arhaan Bhandari,Tamil Nadu,India,Store,Net Banking,104880
+TX0070,Smartphone,3,16998,2023-12-30,Inaaya  Varughese,Kerala,India,Store,Cash,50994
+TX0071,Headphones,6,7330,2024-06-25,Divit Srivastava,Maharashtra,India,Store,Cash,43980
+TX0072,Headphones,8,11015,2024-09-03,Shayak Handa,Nagaland,India,Online,Net Banking,88120
+TX0073,Printer,8,12417,2024-05-27,Nirvi Gopal,Assam,India,Store,UPI,99336
+TX0074,E-Reader,7,17469,2024-04-02,Arnav Bhavsar,Karnataka,India,Direct,Cash,122283
+TX0075,E-Reader,2,12483,2024-07-07,Jhanvi Rattan,Meghalaya,India,Store,Credit Card,24966
+TX0076,E-Reader,7,16926,2024-01-07,Anika Badami,Meghalaya,India,Online,UPI,118482
+TX0077,Desktop PC,8,6754,2024-07-06,Priyansh Balakrishnan,Kerala,India,Store,Credit Card,54032
+TX0078,Smartwatch,3,13385,2023-11-04,Kashvi Batra,Meghalaya,India,Direct,Cash,40155
+TX0079,Desktop PC,4,12587,2024-05-26,Fateh Bhattacharyya,Kerala,India,Online,Net Banking,50348
+TX0080,Desktop PC,2,7612,2024-09-03,Divij Seth,Mizoram,India,Store,Cash,15224
+TX0081,Printer,6,10397,2024-01-16,Suhana Kade,Karnataka,India,Store,Debit Card,62382
+TX0082,External Hard Drive,3,13106,2024-01-02,Himmat Chacko,Sikkim,India,Store,UPI,39318
+TX0083,External Hard Drive,1,8957,2023-12-23,Advik Anand,Tamil Nadu,India,Direct,UPI,8957
+TX0084,Laptop,2,5792,2024-01-23,Piya Tara,Nagaland,India,Direct,Net Banking,11584
+TX0085,Printer,1,12305,2024-06-22,Nirvi Bhalla,Haryana,India,Store,Cash,12305
+TX0086,Smartphone,7,16608,2023-12-18,Alisha Setty,Bihar,India,Online,Credit Card,116256
+TX0087,Headphones,1,8445,2023-10-08,Raunak Sahni,Nagaland,India,Online,Credit Card,8445
+TX0088,E-Reader,5,8363,2024-09-14,Adah Raju,Chhattisgarh,India,Online,Credit Card,41815
+TX0089,Desktop PC,9,2165,2024-07-31,Lakshay Behl,Gujarat,India,Online,Net Banking,19485
+TX0090,Smartwatch,5,18818,2024-05-17,Vedika Mahajan,Kerala,India,Online,Cash,94090
+TX0091,Printer,4,16744,2024-07-06,Nirvaan Yohannan,Chhattisgarh,India,Direct,UPI,66976
+TX0092,Laptop,4,3968,2024-06-08,Keya De,Uttarakhand,India,Direct,UPI,15872
+TX0093,External Hard Drive,9,3228,2023-10-29,Advik Kulkarni,Punjab,India,Store,UPI,29052
+TX0094,Printer,9,11220,2024-04-03,Bhavin Manda,Manipur,India,Online,Credit Card,100980
+TX0095,Printer,8,3198,2024-07-11,Suhana Ganesan,Goa,India,Direct,Net Banking,25584
+TX0096,Printer,1,13505,2024-03-06,Piya Bajwa,Nagaland,India,Online,UPI,13505
+TX0097,Smartwatch,4,16730,2023-10-10,Riaan Dhillon,Jharkhand,India,Direct,Net Banking,66920
+TX0098,Camera,9,9579,2024-01-10,Ayesha Chander,Gujarat,India,Store,Net Banking,86211
+TX0099,Smartwatch,8,5406,2023-11-03,Mamooty Dyal,Tripura,India,Online,Net Banking,43248
+TX0100,Camera,8,6966,2024-01-17,Shaan Balan,Punjab,India,Store,UPI,55728
+TX0101,Camera,2,7517,2024-05-12,Lagan Sarna,Tamil Nadu,India,Store,Debit Card,15034
+TX0102,Smartphone,9,9197,2024-08-03,Jayan Balasubramanian,Punjab,India,Store,Cash,82773
+TX0103,Smartphone,5,11166,2024-01-18,Mamooty Thaman,Himachal Pradesh,India,Online,Debit Card,55830
+TX0104,External Hard Drive,8,19611,2024-09-23,Prerak Badal,Kerala,India,Store,Net Banking,156888
+TX0105,E-Reader,1,14767,2024-02-12,Yuvaan Bhasin,West Bengal,India,Online,Net Banking,14767
+TX0106,Camera,5,9278,2024-09-16,Aniruddh Ghosh,Rajasthan,India,Store,Debit Card,46390
+TX0107,Smartwatch,1,3492,2024-06-17,Keya Rau,Manipur,India,Online,Debit Card,3492
+TX0108,Desktop PC,7,5767,2024-07-08,Jayesh Virk,Chhattisgarh,India,Store,Net Banking,40369
+TX0109,Camera,5,17101,2024-08-01,Anahita Gala,Himachal Pradesh,India,Direct,Credit Card,85505
+TX0110,External Hard Drive,3,19538,2023-12-27,Rania Gala,Gujarat,India,Direct,UPI,58614
+TX0111,Desktop PC,5,2184,2024-06-08,Piya Doctor,Chhattisgarh,India,Online,Cash,10920
+TX0112,Smartwatch,7,9278,2024-05-24,Krish Lal,Telangana,India,Direct,Cash,64946
+TX0113,Desktop PC,4,13974,2024-06-02,Neysa Dhawan,Jharkhand,India,Store,Net Banking,55896
+TX0114,Desktop PC,4,7074,2024-04-11,Prisha Chanda,Madhya Pradesh,India,Store,Cash,28296
+TX0115,E-Reader,8,12430,2024-01-12,Hrishita Dora,Tamil Nadu,India,Online,Debit Card,99440
+TX0116,Desktop PC,9,9726,2024-06-19,Jayan Ramakrishnan,Chhattisgarh,India,Direct,Debit Card,87534
+TX0117,Tablet,6,15051,2024-01-07,Lakshit Sane,Uttar Pradesh,India,Store,UPI,90306
+TX0118,E-Reader,1,7209,2024-07-31,Jivika Dani,Nagaland,India,Store,Credit Card,7209
+TX0119,Smartwatch,9,8462,2024-02-27,Ahana  Hora,Chhattisgarh,India,Store,UPI,76158
+TX0120,Laptop,6,18677,2023-12-23,Rasha Kota,Kerala,India,Direct,Credit Card,112062
+TX0121,Printer,5,16495,2023-11-06,Oorja Sachdeva,Telangana,India,Store,Debit Card,82475
+TX0122,Laptop,8,6983,2024-08-27,Pari Bhagat,Nagaland,India,Direct,Net Banking,55864
+TX0123,Tablet,5,10092,2023-11-10,Saanvi Ramesh,Gujarat,India,Direct,Credit Card,50460
+TX0124,Camera,2,11576,2024-01-06,Kismat Lanka,West Bengal,India,Store,Net Banking,23152
+TX0125,Printer,4,14271,2023-12-08,Gokul Chaudhary,Telangana,India,Store,Credit Card,57084
+TX0126,Smartphone,4,5869,2024-06-13,Drishya Bahl,Himachal Pradesh,India,Store,Debit Card,23476
+TX0127,E-Reader,3,5796,2023-12-14,Divit Sundaram,Assam,India,Online,UPI,17388
+TX0128,Smartwatch,6,7393,2024-02-21,Lakshit Sathe,Haryana,India,Online,Cash,44358
+TX0129,Smartwatch,3,13943,2023-12-22,Kiaan Chana,Telangana,India,Store,Net Banking,41829
+TX0130,Laptop,4,3506,2024-08-31,Aayush De,Tripura,India,Online,Cash,14024
+TX0131,E-Reader,6,17920,2024-07-06,Nitya Bains,Karnataka,India,Store,UPI,107520
+TX0132,Tablet,8,16550,2024-07-18,Shamik Barman,Uttarakhand,India,Online,Credit Card,132400
+TX0133,Smartphone,3,9213,2023-10-20,Parinaaz Chaudhary,Telangana,India,Online,Credit Card,27639
+TX0134,External Hard Drive,8,3146,2024-09-17,Prerak Dewan,Jharkhand,India,Direct,Cash,25168
+TX0135,Camera,2,4737,2024-02-09,Pihu Bakshi,Jharkhand,India,Store,Cash,9474
+TX0136,Smartphone,7,17708,2024-08-16,Nishith Issac,Sikkim,India,Direct,UPI,123956
+TX0137,E-Reader,6,19729,2024-02-19,Zaina Vala,Maharashtra,India,Store,Debit Card,118374
+TX0138,Camera,1,3365,2023-12-22,Shaan Grewal,Kerala,India,Online,UPI,3365
+TX0139,Tablet,1,15856,2024-03-13,Stuvan Tara,Tamil Nadu,India,Direct,Net Banking,15856
+TX0140,Headphones,4,18371,2024-05-22,Indranil Chawla,Sikkim,India,Store,Net Banking,73484
+TX0141,Printer,2,4170,2024-01-29,Adira Sekhon,Rajasthan,India,Online,Credit Card,8340
+TX0142,Desktop PC,7,7222,2024-06-16,Shlok Majumdar,Arunachal Pradesh,India,Online,Cash,50554
+TX0143,External Hard Drive,7,18473,2024-09-06,Badal Magar,Tripura,India,Online,Cash,129311
+TX0144,External Hard Drive,8,5185,2024-05-13,Ranbir Ray,Tamil Nadu,India,Store,UPI,41480
+TX0145,Desktop PC,9,10347,2023-11-10,Jiya Chanda,Kerala,India,Direct,Credit Card,93123
+TX0146,Laptop,9,3537,2024-06-17,Keya Chandran,Jharkhand,India,Direct,Cash,31833
+TX0147,E-Reader,8,4313,2024-03-06,Veer Bajaj,Arunachal Pradesh,India,Store,UPI,34504
+TX0148,Desktop PC,1,14403,2024-07-17,Mahika Sharma,Mizoram,India,Online,UPI,14403
+TX0149,Camera,9,3873,2024-02-18,Dhanuk Ratta,Nagaland,India,Online,Debit Card,34857
+TX0150,Desktop PC,7,14683,2024-06-06,Pari Dhawan,Maharashtra,India,Online,Debit Card,102781
+TX0151,Headphones,9,4295,2023-10-22,Piya Krishnamurthy,Sikkim,India,Store,UPI,38655
+TX0152,Printer,9,7955,2023-10-13,Kiaan Vig,Kerala,India,Store,UPI,71595
+TX0153,Smartphone,4,19700,2024-08-06,Siya Master,Karnataka,India,Direct,UPI,78800
+TX0154,E-Reader,7,10211,2024-05-26,Anay Bhagat,Punjab,India,Online,Cash,71477
+TX0155,Headphones,2,3007,2024-01-17,Prerak Devan,Chhattisgarh,India,Store,Credit Card,6014
+TX0156,E-Reader,8,6820,2024-07-16,Jayan Raja,Odisha,India,Online,Net Banking,54560
+TX0157,Smartphone,5,18062,2024-06-15,Kismat Thaker,Odisha,India,Direct,Credit Card,90310
+TX0158,E-Reader,3,18592,2023-09-30,Anahita Sundaram,Himachal Pradesh,India,Direct,Cash,55776
+TX0159,Smartwatch,1,4233,2024-04-18,Arhaan Rau,Odisha,India,Store,Net Banking,4233
+TX0160,Smartphone,9,18005,2023-12-20,Anahi Ratta,Telangana,India,Online,UPI,162045
+TX0161,Desktop PC,3,4326,2023-10-26,Parinaaz Balay,Odisha,India,Store,Credit Card,12978
+TX0162,Camera,8,19800,2024-04-03,Vanya Chowdhury,Goa,India,Store,Cash,158400
+TX0163,Desktop PC,9,3193,2023-10-02,Jhanvi Zacharia,Punjab,India,Online,UPI,28737
+TX0164,External Hard Drive,5,12058,2023-11-11,Shayak Halder,Goa,India,Store,UPI,60290
+TX0165,Laptop,5,11820,2024-03-19,Parinaaz Uppal,Arunachal Pradesh,India,Direct,Debit Card,59100
+TX0166,External Hard Drive,2,17455,2023-10-09,Farhan Jhaveri,Assam,India,Store,Cash,34910
+TX0167,Camera,8,2907,2024-01-04,Ayesha Kar,Karnataka,India,Online,Cash,23256
+TX0168,Smartphone,7,18475,2023-11-29,Anay Balakrishnan,Telangana,India,Online,Credit Card,129325
+TX0169,External Hard Drive,5,14871,2023-12-31,Vritika Sura,Karnataka,India,Online,Net Banking,74355
+TX0170,Printer,2,17223,2024-02-01,Sara Sule,Punjab,India,Direct,Credit Card,34446
+TX0171,Headphones,6,3097,2023-12-12,Lakshit Raval,Punjab,India,Online,Debit Card,18582
+TX0172,Desktop PC,8,14428,2023-10-22,Hansh Randhawa,Mizoram,India,Online,Net Banking,115424
+TX0173,Tablet,2,4792,2024-02-20,Advika Kashyap,Tripura,India,Direct,Cash,9584
+TX0174,Headphones,4,16317,2024-08-18,Lakshay Sinha,Telangana,India,Store,Credit Card,65268
+TX0175,External Hard Drive,6,13791,2023-10-29,Vidur Manne,Assam,India,Store,Debit Card,82746
+TX0176,Printer,8,11220,2024-07-04,Riya Ganguly,Manipur,India,Store,Credit Card,89760
+TX0177,Tablet,4,3716,2023-09-30,Baiju Goswami,Sikkim,India,Online,Net Banking,14864
+TX0178,External Hard Drive,7,16402,2024-02-11,Dhanuk Chawla,Tamil Nadu,India,Store,Debit Card,114814
+TX0179,Desktop PC,7,9533,2024-05-31,Divyansh Devan,Himachal Pradesh,India,Store,Credit Card,66731
+TX0180,Printer,8,5333,2024-06-19,Onkar Banik,Jharkhand,India,Direct,Credit Card,42664
+TX0181,Printer,2,10527,2024-04-02,Nitya Vyas,Uttarakhand,India,Direct,Cash,21054
+TX0182,Smartphone,7,14111,2024-07-07,Arnav Dutta,Bihar,India,Direct,Debit Card,98777
+TX0183,Desktop PC,1,17321,2023-12-03,Uthkarsh Kuruvilla,Arunachal Pradesh,India,Online,UPI,17321
+TX0184,Smartphone,4,2662,2023-12-13,Myra Mangal,Maharashtra,India,Online,Net Banking,10648
+TX0185,Laptop,9,16809,2024-08-27,Bhavin Raja,Chhattisgarh,India,Direct,Net Banking,151281
+TX0186,E-Reader,5,11433,2024-07-15,Biju Chaudhuri,Rajasthan,India,Store,Debit Card,57165
+TX0187,Tablet,2,9998,2024-01-24,Dharmajan Bahl,West Bengal,India,Online,Net Banking,19996
+TX0188,Laptop,5,10989,2024-09-20,Aaina Dhingra,Meghalaya,India,Store,UPI,54945
+TX0189,Tablet,6,11993,2024-08-28,Parinaaz Lall,Andhra Pradesh,India,Store,Cash,71958
+TX0190,Printer,1,13133,2024-06-01,Zain Lad,Odisha,India,Store,Cash,13133
+TX0191,External Hard Drive,4,13111,2023-10-14,Prerak Vasa,West Bengal,India,Store,UPI,52444
+TX0192,Printer,2,5794,2023-10-18,Siya Sachdeva,Rajasthan,India,Online,UPI,11588
+TX0193,Printer,5,9752,2024-04-23,Uthkarsh Taneja,Uttarakhand,India,Direct,Credit Card,48760
+TX0194,Desktop PC,5,18639,2024-03-25,Seher De,Assam,India,Direct,UPI,93195
+TX0195,Tablet,5,8770,2024-07-15,Hridaan Chaudry,Tripura,India,Direct,Credit Card,43850
+TX0196,Camera,1,8385,2024-09-21,Dhruv Sathe,Arunachal Pradesh,India,Store,Net Banking,8385
+TX0197,Desktop PC,1,11527,2024-01-03,Yuvaan Ravel,West Bengal,India,Direct,Net Banking,11527
+TX0198,Tablet,9,18074,2024-06-12,Anahi Wagle,Uttar Pradesh,India,Store,Cash,162666
+TX0199,Tablet,5,7400,2024-03-01,Kiara Rao,Meghalaya,India,Direct,Net Banking,37000
+TX0200,Laptop,7,3677,2024-01-05,Taimur Tara,Goa,India,Online,Credit Card,25739
+TX0201,Camera,4,8149,2024-07-11,Pranay Bhagat,Tamil Nadu,India,Store,UPI,32596
+TX0202,Smartwatch,4,7735,2024-07-28,Vritika Raju,Gujarat,India,Store,Net Banking,30940
+TX0203,External Hard Drive,3,17409,2024-09-05,Samar Joshi,Tripura,India,Store,Net Banking,52227
+TX0204,Desktop PC,2,19765,2024-03-13,Amira Bhardwaj,Jharkhand,India,Online,Net Banking,39530
+TX0205,Printer,3,6248,2023-12-07,Bhamini Sangha,Meghalaya,India,Online,Debit Card,18744
+TX0206,Smartwatch,2,14351,2024-08-13,Jiya Sama,Haryana,India,Direct,UPI,28702
+TX0207,External Hard Drive,4,3565,2024-09-15,Manjari Shenoy,Manipur,India,Store,Cash,14260
+TX0208,Smartphone,5,6593,2024-07-15,Neelofar Rau,Manipur,India,Store,UPI,32965
+TX0209,E-Reader,2,12602,2023-12-05,Yuvraj  Dugal,Goa,India,Online,Net Banking,25204
+TX0210,Printer,2,5339,2024-01-18,Umang Dalal,Assam,India,Online,Credit Card,10678
+TX0211,Desktop PC,1,9615,2024-04-06,Emir Lal,Uttarakhand,India,Online,Cash,9615
+TX0212,External Hard Drive,8,11504,2023-12-31,Dhanuk Dube,Telangana,India,Direct,Net Banking,92032
+TX0213,External Hard Drive,9,8337,2023-10-17,Manjari Dhar,Chhattisgarh,India,Store,Credit Card,75033
+TX0214,E-Reader,5,7241,2023-12-02,Uthkarsh Garde,Jharkhand,India,Direct,Cash,36205
+TX0215,Tablet,4,18757,2024-06-19,Jayant Kala,Maharashtra,India,Store,Net Banking,75028
+TX0216,Tablet,6,2833,2024-09-10,Eshani Kari,Assam,India,Store,Credit Card,16998
+TX0217,Camera,7,16074,2023-11-19,Kismat Rama,Rajasthan,India,Online,Net Banking,112518
+TX0218,E-Reader,4,4073,2024-01-02,Samiha Hayre,Arunachal Pradesh,India,Direct,Credit Card,16292
+TX0219,E-Reader,3,14236,2024-09-12,Samiha Sanghvi,Andhra Pradesh,India,Online,UPI,42708
+TX0220,Printer,9,8216,2024-08-20,Aarav Kothari,Haryana,India,Direct,Debit Card,73944
+TX0221,Laptop,2,16860,2024-04-07,Veer Sampath,Himachal Pradesh,India,Online,Credit Card,33720
+TX0222,Camera,5,4968,2024-03-02,Raghav Edwin,Uttarakhand,India,Store,Net Banking,24840
+TX0223,E-Reader,1,14435,2024-08-10,Nishith Som,Assam,India,Store,Net Banking,14435
+TX0224,Printer,9,19332,2024-04-18,Pari Koshy,Andhra Pradesh,India,Online,Net Banking,173988
+TX0225,External Hard Drive,4,17452,2024-02-16,Reyansh Kohli,Odisha,India,Online,Cash,69808
+TX0226,E-Reader,6,7347,2023-11-15,Manjari Handa,Kerala,India,Direct,Credit Card,44082
+TX0227,Tablet,6,14323,2023-11-08,Indranil Agrawal,Uttar Pradesh,India,Store,UPI,85938
+TX0228,Printer,2,4257,2024-02-23,Badal Choudhary,Uttarakhand,India,Store,Net Banking,8514
+TX0229,Printer,8,3175,2023-11-05,Purab Raja,Kerala,India,Store,Cash,25400
+TX0230,Tablet,9,12301,2024-06-24,Nitara Jha,Odisha,India,Direct,Cash,110709
+TX0231,Smartphone,7,19589,2023-12-08,Suhana Konda,Sikkim,India,Store,Cash,137123
+TX0232,Desktop PC,5,7549,2023-12-13,Hiran Tata,Odisha,India,Direct,UPI,37745
+TX0233,External Hard Drive,8,12350,2023-11-01,Ayesha Sarraf,Himachal Pradesh,India,Store,Cash,98800
+TX0234,Smartwatch,4,7779,2024-04-09,Indranil Sinha,Telangana,India,Direct,Debit Card,31116
+TX0235,Tablet,6,3258,2024-08-08,Kaira Keer,Tamil Nadu,India,Online,Cash,19548
+TX0236,Camera,4,3901,2024-02-08,Vivaan Thaker,Manipur,India,Online,Credit Card,15604
+TX0237,Smartphone,7,7042,2023-10-15,Nehmat Mahajan,Haryana,India,Direct,Debit Card,49294
+TX0238,Camera,5,17937,2024-05-18,Urvi Shankar,Tamil Nadu,India,Direct,Net Banking,89685
+TX0239,External Hard Drive,8,18978,2024-09-05,Taimur Tank,Madhya Pradesh,India,Online,Net Banking,151824
+TX0240,Printer,4,19870,2024-02-10,Tarini Din,Punjab,India,Online,Debit Card,79480
+TX0241,Smartwatch,1,2101,2024-05-01,Rasha Sundaram,Rajasthan,India,Direct,Cash,2101
+TX0242,External Hard Drive,6,16920,2024-02-21,Saanvi Brar,Arunachal Pradesh,India,Direct,Debit Card,101520
+TX0243,Smartwatch,4,8834,2024-06-02,Rohan Verma,Assam,India,Store,Debit Card,35336
+TX0244,Smartphone,8,12274,2023-09-27,Shray Jain,Chhattisgarh,India,Store,Cash,98192
+TX0245,Laptop,6,19370,2023-10-05,Manikya Sani,Kerala,India,Online,Credit Card,116220
+TX0246,Headphones,6,10715,2023-11-30,Rania Bahri,Bihar,India,Online,Credit Card,64290
+TX0247,Printer,9,5211,2024-05-27,Nishith Kata,Himachal Pradesh,India,Direct,Debit Card,46899
+TX0248,E-Reader,1,12600,2023-11-11,Hansh Basak,Sikkim,India,Online,UPI,12600
+TX0249,External Hard Drive,9,8564,2024-01-12,Taimur Vala,Jharkhand,India,Direct,Net Banking,77076
+TX0250,External Hard Drive,4,7936,2024-07-01,Yuvraj  Gole,Haryana,India,Store,Debit Card,31744
+TX0251,Smartphone,7,16941,2024-04-05,Tiya Bhandari,Manipur,India,Store,Credit Card,118587
+TX0252,Tablet,4,7666,2024-07-08,Fateh Aggarwal,Punjab,India,Store,Cash,30664
+TX0253,External Hard Drive,3,15002,2024-05-29,Ishita Mann,West Bengal,India,Direct,Cash,45006
+TX0254,Printer,8,5532,2024-08-12,Saanvi Kamdar,Odisha,India,Direct,UPI,44256
+TX0255,Smartwatch,1,4801,2023-12-10,Gokul Bawa,Rajasthan,India,Online,Debit Card,4801
+TX0256,Camera,4,9463,2024-03-25,Sumer Krishna,Meghalaya,India,Online,Cash,37852
+TX0257,Camera,1,7103,2024-09-18,Renee Kaul,Haryana,India,Direct,Debit Card,7103
+TX0258,E-Reader,4,2075,2024-02-07,Yashvi Acharya,Bihar,India,Direct,Net Banking,8300
+TX0259,Printer,7,3966,2024-04-09,Jayant Madan,Assam,India,Online,Credit Card,27762
+TX0260,Tablet,2,14201,2024-05-17,Charvi Varghese,Andhra Pradesh,India,Store,Credit Card,28402
+TX0261,Camera,3,6090,2024-06-08,Ryan Kanda,Goa,India,Store,Net Banking,18270
+TX0262,Camera,5,5715,2024-02-05,Ahana  Jain,Jharkhand,India,Store,Cash,28575
+TX0263,Printer,2,17679,2024-01-27,Drishya Kara,Odisha,India,Store,Debit Card,35358
+TX0264,Smartwatch,4,17168,2024-01-25,Aayush Choudhary,Tamil Nadu,India,Direct,Net Banking,68672
+TX0265,Laptop,3,9949,2024-01-28,Faiyaz Ahuja,Kerala,India,Online,Credit Card,29847
+TX0266,Camera,5,5878,2024-01-27,Prerak Kohli,Uttarakhand,India,Direct,Net Banking,29390
+TX0267,Laptop,8,6356,2023-10-12,Shamik Kaul,Meghalaya,India,Direct,Credit Card,50848
+TX0268,Headphones,5,16851,2024-08-17,Umang Handa,Mizoram,India,Online,Credit Card,84255
+TX0269,External Hard Drive,5,5216,2023-11-23,Shaan Chhabra,Himachal Pradesh,India,Store,Credit Card,26080
+TX0270,Smartphone,2,4430,2023-12-29,Zara Sen,Nagaland,India,Store,UPI,8860
+TX0271,Smartphone,3,10856,2024-03-29,Miraan Gala,Punjab,India,Online,Debit Card,32568
+TX0272,Smartphone,8,11483,2024-06-01,Darshit Singhal,Gujarat,India,Direct,UPI,91864
+TX0273,Desktop PC,3,11435,2024-09-20,Advika Mandal,Andhra Pradesh,India,Store,Credit Card,34305
+TX0274,Smartphone,4,7000,2023-12-22,Vihaan Ramachandran,Tamil Nadu,India,Online,Net Banking,28000
+TX0275,Tablet,8,8438,2024-01-20,Nayantara Bail,Tripura,India,Online,Debit Card,67504
+TX0276,Desktop PC,7,3588,2024-05-12,Alisha Arya,Andhra Pradesh,India,Store,Cash,25116
+TX0277,Desktop PC,7,17679,2024-01-19,Kiaan Krish,Madhya Pradesh,India,Online,Cash,123753
+TX0278,Tablet,3,13157,2024-06-29,Yashvi Ben,Arunachal Pradesh,India,Direct,Net Banking,39471
+TX0279,Camera,4,10947,2024-03-20,Prisha Sachdeva,Manipur,India,Direct,Net Banking,43788
+TX0280,Headphones,7,16539,2023-11-05,Amira Comar,Gujarat,India,Online,UPI,115773
+TX0281,Smartwatch,1,12975,2023-12-24,Stuvan Behl,Rajasthan,India,Store,Credit Card,12975
+TX0282,Smartwatch,9,18694,2023-12-02,Jhanvi Kata,Gujarat,India,Store,Net Banking,168246
+TX0283,Laptop,1,18243,2024-03-31,Farhan Grover,Chhattisgarh,India,Store,Cash,18243
+TX0284,Smartphone,8,15747,2023-10-17,Suhana Rau,Karnataka,India,Direct,Cash,125976
+TX0285,Smartphone,7,17443,2024-02-21,Samarth Sampath,Arunachal Pradesh,India,Store,Debit Card,122101
+TX0286,External Hard Drive,6,18685,2024-06-13,Prerak Koshy,Nagaland,India,Store,Debit Card,112110
+TX0287,E-Reader,7,17727,2024-02-02,Alia Chakrabarti,Chhattisgarh,India,Store,Credit Card,124089
+TX0288,E-Reader,6,3339,2023-11-09,Aradhya Gokhale,Tamil Nadu,India,Store,Net Banking,20034
+TX0289,Tablet,3,19562,2024-05-19,Lakshit Ravi,Jharkhand,India,Store,Net Banking,58686
+TX0290,Laptop,8,5704,2023-11-08,Rania Joshi,Andhra Pradesh,India,Store,Cash,45632
+TX0291,Printer,2,7774,2024-03-02,Dishani Verma,Kerala,India,Store,UPI,15548
+TX0292,Smartphone,3,2513,2023-12-20,Shray Sarraf,Arunachal Pradesh,India,Store,UPI,7539
+TX0293,Camera,3,5574,2024-02-16,Samarth Das,Manipur,India,Direct,Debit Card,16722
+TX0294,Camera,6,16767,2024-09-12,Renee Arora,Telangana,India,Direct,UPI,100602
+TX0295,External Hard Drive,7,9548,2024-04-23,Farhan Anne,Assam,India,Store,Debit Card,66836
+TX0296,Headphones,5,13382,2024-04-09,Kaira Chakrabarti,Chhattisgarh,India,Direct,UPI,66910
+TX0297,Laptop,3,10004,2024-03-22,Adah Chada,Nagaland,India,Direct,Credit Card,30012
+TX0298,Printer,3,19610,2024-01-31,Bhamini Seth,Rajasthan,India,Direct,Cash,58830
+TX0299,Smartphone,2,2106,2024-05-12,Kaira Kar,Andhra Pradesh,India,Store,Net Banking,4212
+TX0300,E-Reader,1,9659,2023-12-31,Aayush Halder,Haryana,India,Direct,Cash,9659
+TX0301,Laptop,1,15918,2024-05-23,Misha Vora,Odisha,India,Direct,Net Banking,15918
+TX0302,Smartwatch,3,6352,2024-09-07,Kismat Choudhary,Gujarat,India,Direct,Credit Card,19056
+TX0303,Laptop,9,11809,2024-08-06,Sumer Bala,Telangana,India,Direct,UPI,106281
+TX0304,Smartwatch,4,17147,2024-06-08,Prerak Bala,Rajasthan,India,Store,Credit Card,68588
+TX0305,Tablet,1,7046,2024-09-12,Zaina Char,Himachal Pradesh,India,Direct,Credit Card,7046
+TX0306,Headphones,9,10982,2024-06-01,Aaryahi Rege,Haryana,India,Online,Cash,98838
+TX0307,Camera,9,17135,2023-12-21,Ivan Kala,Nagaland,India,Online,Credit Card,154215
+TX0308,Tablet,2,14660,2023-10-13,Zeeshan Sane,Meghalaya,India,Online,Cash,29320
+TX0309,Headphones,1,17394,2023-10-09,Heer Shenoy,Punjab,India,Online,Debit Card,17394
+TX0310,Camera,6,5396,2024-02-20,Shalv Raval,Gujarat,India,Direct,Cash,32376
+TX0311,Tablet,9,5962,2023-10-25,Azad Rajan,Meghalaya,India,Store,Cash,53658
+TX0312,External Hard Drive,3,19214,2024-02-29,Kiaan Tak,Gujarat,India,Online,Net Banking,57642
+TX0313,External Hard Drive,4,5876,2024-09-06,Krish Sachdeva,Goa,India,Online,Net Banking,23504
+TX0314,External Hard Drive,6,10913,2024-01-08,Jayesh Shenoy,Bihar,India,Online,UPI,65478
+TX0315,Tablet,4,12480,2023-12-17,Kavya Deo,Manipur,India,Direct,Net Banking,49920
+TX0316,Laptop,9,17727,2024-03-05,Nehmat Singh,Tripura,India,Store,Cash,159543
+TX0317,Laptop,7,10390,2024-02-07,Arhaan Barad,Arunachal Pradesh,India,Store,Cash,72730
+TX0318,Camera,5,5504,2024-03-25,Miraan Bahl,Nagaland,India,Direct,UPI,27520
+TX0319,Laptop,7,4441,2024-08-24,Damini Sani,Haryana,India,Online,Net Banking,31087
+TX0320,Smartphone,4,2469,2024-08-12,Tarini Saha,Nagaland,India,Online,Debit Card,9876
+TX0321,Smartwatch,7,16857,2024-09-05,Taran Das,Kerala,India,Store,Cash,117999
+TX0322,Printer,3,9160,2024-08-19,Divyansh Rana,Assam,India,Online,Net Banking,27480
+TX0323,Laptop,7,3188,2023-10-03,Piya Divan,Tamil Nadu,India,Online,Net Banking,22316
+TX0324,Smartwatch,6,10476,2024-08-16,Amani Kale,Assam,India,Direct,Net Banking,62856
+TX0325,Smartwatch,6,17424,2024-06-05,Rania Sahota,Telangana,India,Store,UPI,104544
+TX0326,Headphones,5,19354,2024-03-22,Farhan Ghosh,Punjab,India,Store,Cash,96770
+TX0327,Printer,7,15180,2023-11-10,Yuvaan Bava,Maharashtra,India,Online,Net Banking,106260
+TX0328,External Hard Drive,6,4469,2023-12-09,Khushi Chanda,Tripura,India,Direct,Debit Card,26814
+TX0329,E-Reader,2,9255,2024-05-06,Shlok Ben,Odisha,India,Store,UPI,18510
+TX0330,Laptop,4,3758,2024-03-12,Sahil Goswami,Mizoram,India,Store,Cash,15032
+TX0331,External Hard Drive,4,6049,2024-07-04,Kaira Chopra,Goa,India,Direct,UPI,24196
+TX0332,E-Reader,9,18495,2024-09-14,Mishti Sarraf,Gujarat,India,Online,UPI,166455
+TX0333,Tablet,6,16306,2024-03-11,Azad Master,Himachal Pradesh,India,Store,UPI,97836
+TX0334,Smartwatch,6,8992,2023-11-02,Kimaya Chawla,Uttarakhand,India,Online,Net Banking,53952
+TX0335,Printer,7,3779,2023-12-31,Darshit Roy,Goa,India,Online,Net Banking,26453
+TX0336,External Hard Drive,1,6690,2024-09-23,Alia Sule,Sikkim,India,Online,Net Banking,6690
+TX0337,Tablet,8,4538,2023-11-06,Mannat Karnik,Sikkim,India,Online,UPI,36304
+TX0338,Tablet,6,14316,2024-06-06,Faiyaz Ahuja,Mizoram,India,Store,Credit Card,85896
+TX0339,External Hard Drive,2,3827,2024-04-15,Pari Bhatt,Tripura,India,Online,Debit Card,7654
+TX0340,Smartwatch,6,14058,2024-01-09,Anay Chandran,Telangana,India,Direct,UPI,84348
+TX0341,Printer,7,5441,2023-10-14,Kavya Karpe,Himachal Pradesh,India,Store,Cash,38087
+TX0342,Desktop PC,7,7479,2023-11-03,Farhan Gokhale,Maharashtra,India,Store,Cash,52353
+TX0343,Headphones,9,7674,2023-11-16,Dhanuk Shenoy,Jharkhand,India,Online,Cash,69066
+TX0344,Headphones,8,11299,2024-09-03,Aarush Lalla,Odisha,India,Store,Credit Card,90392
+TX0345,Printer,6,13466,2024-06-11,Hridaan Swamy,Jharkhand,India,Store,UPI,80796
+TX0346,Desktop PC,4,19627,2024-03-24,Navya Balasubramanian,Assam,India,Direct,Cash,78508
+TX0347,Smartphone,3,6835,2024-06-12,Arhaan Korpal,Nagaland,India,Store,Debit Card,20505
+TX0348,External Hard Drive,4,17179,2024-03-25,Samiha Kunda,Arunachal Pradesh,India,Online,Cash,68716
+TX0349,Printer,3,14019,2023-09-26,Shayak Sawhney,Telangana,India,Online,Cash,42057
+TX0350,Smartwatch,6,5454,2024-02-04,Aarna Chaudry,Chhattisgarh,India,Online,Debit Card,32724
+TX0351,Printer,5,7945,2024-01-31,Yasmin Guha,Arunachal Pradesh,India,Direct,UPI,39725
+TX0352,Headphones,2,5901,2023-12-15,Veer Chhabra,Himachal Pradesh,India,Online,UPI,11802
+TX0353,Smartphone,6,5881,2023-09-25,Azad Dey,Assam,India,Direct,Net Banking,35286
+TX0354,Smartwatch,9,9831,2024-09-09,Jiya Dara,Assam,India,Store,Cash,88479
+TX0355,Laptop,4,4792,2023-12-13,Nakul Bora,Sikkim,India,Store,UPI,19168
+TX0356,Headphones,6,7940,2023-12-18,Sara Din,Punjab,India,Direct,Net Banking,47640
+TX0357,Camera,9,2279,2024-03-16,Baiju Gala,Assam,India,Direct,Cash,20511
+TX0358,Printer,5,11338,2024-03-10,Uthkarsh Som,Manipur,India,Direct,Debit Card,56690
+TX0359,Desktop PC,2,13817,2024-03-04,Drishya Iyengar,Nagaland,India,Direct,UPI,27634
+TX0360,Headphones,8,15116,2023-11-18,Tara Maharaj,Arunachal Pradesh,India,Direct,Cash,120928
+TX0361,Laptop,9,2815,2023-12-24,Vardaniya Thaman,Telangana,India,Online,Cash,25335
+TX0362,Tablet,2,11871,2023-11-28,Nishith Shah,Tamil Nadu,India,Direct,Debit Card,23742
+TX0363,Headphones,3,8081,2023-10-15,Dishani Shan,Manipur,India,Direct,Cash,24243
+TX0364,Printer,2,4654,2023-11-29,Jiya Shukla,Rajasthan,India,Direct,Net Banking,9308
+TX0365,Camera,2,12213,2023-10-26,Nehmat Sahota,Sikkim,India,Online,Debit Card,24426
+TX0366,External Hard Drive,8,19194,2024-08-09,Azad Luthra,Karnataka,India,Direct,Credit Card,153552
+TX0367,Laptop,6,2512,2024-09-17,Eshani Toor,Tripura,India,Direct,Net Banking,15072
+TX0368,Smartwatch,1,6829,2024-03-22,Piya Jani,Uttar Pradesh,India,Store,Debit Card,6829
+TX0369,Smartwatch,5,5139,2023-12-17,Divit Sankaran,West Bengal,India,Online,Debit Card,25695
+TX0370,External Hard Drive,2,6383,2023-09-25,Jiya Sheth,Karnataka,India,Online,Credit Card,12766
+TX0371,Laptop,2,4845,2023-11-24,Rasha Rana,Rajasthan,India,Online,Cash,9690
+TX0372,Headphones,7,8160,2023-09-29,Eshani Sawhney,Chhattisgarh,India,Online,Cash,57120
+TX0373,Camera,7,13749,2024-04-05,Anahi Thaman,Haryana,India,Direct,Cash,96243
+TX0374,Headphones,1,5409,2024-01-23,Faiyaz Gulati,Manipur,India,Store,Debit Card,5409
+TX0375,Desktop PC,3,13063,2023-11-22,Ryan Hari,Odisha,India,Online,Credit Card,39189
+TX0376,Laptop,4,6989,2023-11-17,Ishaan Sama,Telangana,India,Direct,Cash,27956
+TX0377,External Hard Drive,8,11515,2024-04-19,Samaira Borra,Meghalaya,India,Store,Credit Card,92120
+TX0378,Camera,3,8467,2023-11-29,Abram Dass,Nagaland,India,Online,Net Banking,25401
+TX0379,Printer,5,14820,2024-09-05,Vihaan Johal,Nagaland,India,Online,Debit Card,74100
+TX0380,Headphones,1,14763,2024-07-04,Jhanvi Dhar,Telangana,India,Online,Net Banking,14763
+TX0381,Smartphone,7,2511,2024-02-09,Saanvi Lalla,Sikkim,India,Direct,Net Banking,17577
+TX0382,Tablet,3,15788,2024-09-01,Eva Walia,Nagaland,India,Store,Credit Card,47364
+TX0383,Desktop PC,5,6366,2024-06-11,Shlok Ramanathan,Mizoram,India,Store,Net Banking,31830
+TX0384,Laptop,8,18654,2024-02-23,Prerak Chander,Punjab,India,Online,UPI,149232
+TX0385,Desktop PC,4,17843,2024-02-07,Emir Doshi,Telangana,India,Direct,Debit Card,71372
+TX0386,Smartwatch,1,2447,2023-12-26,Yakshit Krishnamurthy,Jharkhand,India,Store,UPI,2447
+TX0387,Printer,6,6469,2024-06-29,Parinaaz Golla,Kerala,India,Store,UPI,38814
+TX0388,Camera,5,18102,2024-07-24,Anaya Gola,Rajasthan,India,Online,Debit Card,90510
+TX0389,Desktop PC,1,2043,2024-08-30,Mahika Reddy,West Bengal,India,Online,Cash,2043
+TX0390,Camera,3,9526,2024-01-06,Krish Kashyap,Karnataka,India,Direct,Credit Card,28578
+TX0391,E-Reader,4,13991,2023-11-26,Ishaan Wable,Sikkim,India,Store,Cash,55964
+TX0392,Desktop PC,2,7012,2024-06-28,Eshani Zachariah,West Bengal,India,Direct,Net Banking,14024
+TX0393,Tablet,8,4583,2024-06-12,Uthkarsh Shanker,Assam,India,Online,Cash,36664
+TX0394,Desktop PC,2,7410,2024-05-10,Raghav Chandra,Chhattisgarh,India,Online,UPI,14820
+TX0395,Headphones,4,5360,2024-02-28,Prisha Raju,Jharkhand,India,Online,Cash,21440
+TX0396,Headphones,5,4881,2024-02-25,Nayantara Jani,Tripura,India,Online,Debit Card,24405
+TX0397,External Hard Drive,2,4837,2023-11-09,Ela Dash,Karnataka,India,Direct,Credit Card,9674
+TX0398,Smartphone,8,3000,2024-04-18,Alia Chauhan,Manipur,India,Online,Debit Card,24000
+TX0399,E-Reader,5,12582,2023-12-15,Devansh Hora,Chhattisgarh,India,Online,UPI,62910
+TX0400,Smartphone,1,16609,2024-03-21,Tiya Shan,Gujarat,India,Store,Cash,16609
+TX0401,External Hard Drive,3,5720,2024-05-08,Divyansh Lanka,Meghalaya,India,Store,Credit Card,17160
+TX0402,Smartwatch,8,14630,2023-11-19,Tushar Jani,Telangana,India,Online,Net Banking,117040
+TX0403,E-Reader,5,13858,2024-03-14,Sana Joshi,Karnataka,India,Online,Debit Card,69290
+TX0404,Printer,1,4622,2024-05-02,Sumer Mannan,Tamil Nadu,India,Store,Net Banking,4622
+TX0405,Headphones,3,3565,2024-03-01,Ayesha Zacharia,Himachal Pradesh,India,Online,Credit Card,10695
+TX0406,Printer,7,2139,2024-07-15,Elakshi Doshi,Assam,India,Direct,Credit Card,14973
+TX0407,External Hard Drive,3,12398,2024-07-16,Jivin Varughese,Himachal Pradesh,India,Direct,Credit Card,37194
+TX0408,Printer,5,10519,2024-03-06,Dhruv Sachdev,Bihar,India,Online,Debit Card,52595
+TX0409,Smartphone,6,5642,2024-02-16,Miraan Bhatt,Assam,India,Direct,Cash,33852
+TX0410,Smartwatch,5,15278,2024-03-06,Shlok Chand,Meghalaya,India,Online,UPI,76390
+TX0411,E-Reader,5,2492,2024-08-01,Gatik Biswas,Madhya Pradesh,India,Direct,Cash,12460
+TX0412,Printer,9,19206,2024-04-14,Arnav Sarraf,Manipur,India,Direct,Net Banking,172854
+TX0413,Smartphone,2,18723,2024-08-11,Azad Kar,Telangana,India,Online,Net Banking,37446
+TX0414,Smartphone,6,3401,2024-01-16,Eva Krishnan,Haryana,India,Direct,UPI,20406
+TX0415,External Hard Drive,8,18874,2024-03-30,Zoya Ramachandran,Andhra Pradesh,India,Direct,UPI,150992
+TX0416,Tablet,1,9299,2024-09-21,Baiju Dey,Goa,India,Store,Credit Card,9299
+TX0417,Laptop,2,2884,2024-09-13,Aaina Kapadia,Telangana,India,Online,Cash,5768
+TX0418,Camera,4,9124,2024-08-15,Aniruddh Golla,Haryana,India,Online,Credit Card,36496
+TX0419,Smartwatch,3,6081,2024-06-18,Amira Sampath,Punjab,India,Store,UPI,18243
+TX0420,Camera,9,2851,2024-05-29,Anahi Savant,Manipur,India,Store,Net Banking,25659
+TX0421,Headphones,3,4597,2024-01-14,Devansh Jaggi,Maharashtra,India,Direct,Debit Card,13791
+TX0422,Camera,5,19260,2024-08-30,Hazel Kanda,Odisha,India,Online,Net Banking,96300
+TX0423,Smartwatch,9,13993,2024-07-07,Saanvi Shroff,Himachal Pradesh,India,Online,Cash,125937
+TX0424,External Hard Drive,3,17956,2024-01-21,Mahika Cherian,Kerala,India,Direct,Cash,53868
+TX0425,Smartwatch,9,15997,2024-09-17,Azad Borah,Punjab,India,Direct,Net Banking,143973
+TX0426,Headphones,8,3512,2024-07-21,Riya Bhalla,Chhattisgarh,India,Online,Credit Card,28096
+TX0427,Printer,9,9713,2024-03-02,Myra Sur,Gujarat,India,Store,Debit Card,87417
+TX0428,Smartwatch,3,7444,2024-08-18,Shlok Bhatt,Goa,India,Store,UPI,22332
+TX0429,External Hard Drive,4,16616,2023-10-23,Kashvi Buch,Mizoram,India,Store,Credit Card,66464
+TX0430,E-Reader,4,3394,2024-05-02,Mamooty Dugar,Gujarat,India,Direct,Cash,13576
+TX0431,Tablet,7,13836,2024-05-17,Dhruv Sundaram,Uttarakhand,India,Online,Debit Card,96852
+TX0432,Desktop PC,1,17993,2024-03-26,Hiran Suresh,Manipur,India,Direct,Debit Card,17993
+TX0433,Desktop PC,4,12698,2024-08-03,Purab Bhattacharyya,Sikkim,India,Online,Cash,50792
+TX0434,E-Reader,7,3263,2024-09-11,Tejas Kulkarni,West Bengal,India,Store,UPI,22841
+TX0435,Camera,4,6124,2024-05-20,Vihaan Luthra,Nagaland,India,Online,Credit Card,24496
+TX0436,Desktop PC,7,6562,2023-10-25,Jhanvi Sankaran,West Bengal,India,Store,Debit Card,45934
+TX0437,Headphones,4,16420,2024-01-03,Farhan Madan,Meghalaya,India,Store,Net Banking,65680
+TX0438,E-Reader,3,19685,2024-01-30,Anvi Kalla,Jharkhand,India,Store,UPI,59055
+TX0439,Tablet,3,5703,2024-03-13,Kimaya Shere,Mizoram,India,Store,Cash,17109
+TX0440,Headphones,3,4970,2024-04-15,Devansh Baria,Rajasthan,India,Direct,Net Banking,14910
+TX0441,Laptop,7,10153,2024-09-12,Zain Sami,Himachal Pradesh,India,Direct,Net Banking,71071
+TX0442,Desktop PC,5,8949,2023-10-10,Biju Balakrishnan,Gujarat,India,Direct,UPI,44745
+TX0443,Desktop PC,7,16343,2023-11-24,Zara Golla,Assam,India,Direct,Cash,114401
+TX0444,Smartwatch,1,3400,2024-04-03,Akarsh Tandon,Karnataka,India,Online,Debit Card,3400
+TX0445,External Hard Drive,5,17696,2024-08-31,Himmat Hegde,Punjab,India,Online,Credit Card,88480
+TX0446,Printer,3,9627,2024-01-19,Kismat Kadakia,Punjab,India,Direct,Cash,28881
+TX0447,Desktop PC,2,16722,2024-08-21,Divij Ghosh,Madhya Pradesh,India,Direct,Credit Card,33444
+TX0448,E-Reader,7,9478,2024-07-17,Keya Dhaliwal,Gujarat,India,Store,UPI,66346
+TX0449,Printer,2,11733,2024-06-08,Raunak Sunder,Goa,India,Store,Cash,23466
+TX0450,Laptop,8,10061,2024-07-29,Advik Dugal,Mizoram,India,Store,Net Banking,80488
+TX0451,Headphones,6,9758,2024-06-04,Saira Jayaraman,Gujarat,India,Online,Credit Card,58548
+TX0452,Printer,7,16213,2023-11-11,Shlok Dayal,Assam,India,Online,Cash,113491
+TX0453,Tablet,2,15393,2023-10-11,Adah Tata,Uttarakhand,India,Direct,UPI,30786
+TX0454,Smartwatch,7,11449,2024-03-26,Ahana  Gandhi,Assam,India,Online,Debit Card,80143
+TX0455,External Hard Drive,7,2110,2024-07-02,Dharmajan Dash,Rajasthan,India,Online,Cash,14770
+TX0456,Smartwatch,7,4668,2024-09-19,Elakshi Suresh,Karnataka,India,Online,UPI,32676
+TX0457,Printer,7,3054,2024-02-23,Miraan Brar,Telangana,India,Store,UPI,21378
+TX0458,External Hard Drive,3,11987,2024-08-28,Vanya Kurian,Goa,India,Direct,Debit Card,35961
+TX0459,Camera,6,2128,2024-06-20,Advika Lall,Karnataka,India,Direct,Debit Card,12768
+TX0460,Smartwatch,3,12540,2023-11-25,Vedika Varty,Maharashtra,India,Online,Cash,37620
+TX0461,Smartphone,3,19644,2023-12-31,Aaina Ramanathan,Mizoram,India,Store,Cash,58932
+TX0462,External Hard Drive,4,5072,2024-06-03,Gokul Bhalla,Nagaland,India,Direct,UPI,20288
+TX0463,Smartwatch,3,15218,2023-10-03,Piya Hans,Manipur,India,Store,UPI,45654
+TX0464,Laptop,4,3010,2023-12-30,Krish Sharaf,Assam,India,Online,Debit Card,12040
+TX0465,Printer,9,11444,2024-02-11,Suhana Singh,Andhra Pradesh,India,Online,Net Banking,102996
+TX0466,Printer,6,3211,2023-11-28,Tarini Dugar,Karnataka,India,Direct,Credit Card,19266
+TX0467,Laptop,5,15333,2024-06-05,Aarna Lalla,Tripura,India,Direct,Cash,76665
+TX0468,Desktop PC,6,14351,2024-05-13,Zain Dutt,Bihar,India,Direct,Net Banking,86106
+TX0469,E-Reader,2,17864,2023-12-28,Dharmajan Dhar,Punjab,India,Online,UPI,35728
+TX0470,External Hard Drive,6,16993,2024-08-22,Aayush Srivastava,Madhya Pradesh,India,Online,UPI,101958
+TX0471,External Hard Drive,9,11935,2024-01-23,Uthkarsh Batra,West Bengal,India,Direct,UPI,107415
+TX0472,E-Reader,3,13137,2024-03-01,Himmat Krishnan,Madhya Pradesh,India,Online,Cash,39411
+TX0473,Smartphone,6,16479,2024-04-18,Kaira Bajwa,Meghalaya,India,Store,Cash,98874
+TX0474,Smartphone,7,8870,2024-09-07,Dhruv Jhaveri,Manipur,India,Online,Credit Card,62090
+TX0475,E-Reader,5,19644,2024-08-11,Lagan Gopal,Punjab,India,Store,Net Banking,98220
+TX0476,Tablet,1,12165,2024-07-30,Hunar Varughese,Mizoram,India,Store,UPI,12165
+TX0477,Printer,9,17766,2024-06-10,Arhaan Balay,Andhra Pradesh,India,Direct,UPI,159894
+TX0478,Headphones,6,15773,2024-01-06,Shayak Das,Punjab,India,Online,Cash,94638
+TX0479,Smartwatch,6,4674,2024-03-18,Shamik Doctor,Madhya Pradesh,India,Online,Debit Card,28044
+TX0480,Tablet,6,3929,2024-02-26,Akarsh Vig,Manipur,India,Store,Net Banking,23574
+TX0481,Laptop,2,14214,2024-02-02,Ahana  Kade,Goa,India,Store,UPI,28428
+TX0482,Headphones,1,2947,2024-01-30,Seher Walia,Meghalaya,India,Direct,Net Banking,2947
+TX0483,Smartwatch,1,13761,2023-09-24,Aradhya Bir,West Bengal,India,Store,Cash,13761
+TX0484,Smartwatch,1,16590,2024-09-08,Taimur Gara,Nagaland,India,Direct,Net Banking,16590
+TX0485,External Hard Drive,1,13638,2024-03-31,Anahita Tella,Chhattisgarh,India,Online,Credit Card,13638
+TX0486,Laptop,1,17688,2024-02-08,Purab Chand,Punjab,India,Direct,UPI,17688
+TX0487,Smartwatch,8,18876,2024-08-21,Pihu Sachdeva,Tamil Nadu,India,Direct,Cash,151008
+TX0488,E-Reader,7,14005,2024-01-19,Arhaan Balay,Mizoram,India,Online,Net Banking,98035
+TX0489,Smartphone,4,14306,2023-12-21,Aaina Dayal,Himachal Pradesh,India,Online,Debit Card,57224
+TX0490,Smartwatch,6,12437,2024-06-01,Umang Dani,Telangana,India,Online,Net Banking,74622
+TX0491,Desktop PC,5,17581,2023-12-10,Divij Kale,Haryana,India,Store,Credit Card,87905
+TX0492,Desktop PC,4,18889,2024-06-02,Uthkarsh Sarraf,Manipur,India,Store,Debit Card,75556
+TX0493,Smartwatch,5,19637,2024-05-20,Jayant Kuruvilla,Gujarat,India,Store,Credit Card,98185
+TX0494,Smartwatch,6,2362,2024-09-14,Ivan Walla,Madhya Pradesh,India,Online,Cash,14172
+TX0495,E-Reader,2,4205,2023-10-26,Stuvan Ram,Uttar Pradesh,India,Direct,Debit Card,8410
+TX0496,Printer,4,11371,2023-10-29,Manjari Dewan,Haryana,India,Online,UPI,45484
+TX0497,Tablet,7,18779,2024-08-19,Manjari D’Alia,Uttarakhand,India,Online,Credit Card,131453
+TX0498,Tablet,8,5377,2024-06-28,Saanvi Subramaniam,Tamil Nadu,India,Online,Credit Card,43016
+TX0499,Headphones,5,15640,2024-04-13,Alisha Sur,Karnataka,India,Store,Credit Card,78200
+TX0500,Tablet,1,6440,2023-12-25,Nehmat Deshpande,Chhattisgarh,India,Direct,Net Banking,6440
+TX0501,Smartwatch,1,5506,2024-02-23,Romil Kata,Jharkhand,India,Store,Debit Card,5506
+TX0502,Smartphone,8,18015,2023-12-17,Mohanlal Mandal,Haryana,India,Direct,Debit Card,144120
+TX0503,Desktop PC,4,18515,2024-04-18,Ela Comar,Assam,India,Online,Net Banking,74060
+TX0504,Printer,4,8076,2023-10-09,Lakshit Mannan,Madhya Pradesh,India,Online,UPI,32304
+TX0505,Camera,1,12151,2024-09-04,Nayantara Gala,Goa,India,Direct,Cash,12151
+TX0506,Tablet,1,15822,2023-11-17,Vihaan Ganguly,Tripura,India,Online,Cash,15822
+TX0507,Smartphone,5,14355,2023-12-01,Arhaan Ratti,Jharkhand,India,Online,Net Banking,71775
+TX0508,Smartwatch,5,11784,2024-01-21,Tushar Bhagat,Telangana,India,Store,Net Banking,58920
+TX0509,Smartphone,6,6698,2024-02-12,Pari Deshpande,Madhya Pradesh,India,Store,Net Banking,40188
+TX0510,E-Reader,9,4127,2024-02-10,Anahita Suresh,Madhya Pradesh,India,Online,UPI,37143
+TX0511,Headphones,9,9671,2023-12-05,Chirag Chacko,Sikkim,India,Online,Credit Card,87039
+TX0512,Desktop PC,1,19310,2024-07-17,Alia Arya,Maharashtra,India,Store,Cash,19310
+TX0513,External Hard Drive,2,3604,2024-01-09,Yasmin Shere,Maharashtra,India,Direct,Net Banking,7208
+TX0514,Camera,6,10736,2023-12-09,Anvi Dube,Sikkim,India,Store,Net Banking,64416
+TX0515,Tablet,7,9339,2024-07-27,Yasmin Amble,Goa,India,Direct,Cash,65373
+TX0516,Desktop PC,2,10829,2024-06-03,Yashvi Lall,Kerala,India,Online,Credit Card,21658
+TX0517,Camera,5,17676,2024-01-06,Misha Buch,Tamil Nadu,India,Store,UPI,88380
+TX0518,Smartwatch,1,14845,2024-06-29,Keya Sastry,Maharashtra,India,Direct,Cash,14845
+TX0519,Tablet,5,8429,2024-09-07,Vivaan Sethi,Andhra Pradesh,India,Store,Cash,42145
+TX0520,Desktop PC,8,18634,2023-12-10,Pranay Agate,Tamil Nadu,India,Store,Debit Card,149072
+TX0521,Camera,8,11371,2024-01-29,Hunar Bassi,Tamil Nadu,India,Online,Credit Card,90968
+TX0522,E-Reader,8,19179,2024-05-31,Onkar Kar,West Bengal,India,Online,Credit Card,153432
+TX0523,Printer,7,10318,2024-02-28,Eshani Sekhon,Uttar Pradesh,India,Direct,Credit Card,72226
+TX0524,E-Reader,3,8216,2024-07-20,Vanya Suri,Kerala,India,Direct,Net Banking,24648
+TX0525,E-Reader,7,7195,2024-05-19,Drishya Walia,Uttarakhand,India,Direct,Net Banking,50365
+TX0526,E-Reader,1,5278,2024-06-23,Vanya Khalsa,Uttarakhand,India,Store,Cash,5278
+TX0527,E-Reader,3,13531,2023-11-19,Hridaan Koshy,Chhattisgarh,India,Online,Credit Card,40593
+TX0528,External Hard Drive,8,5530,2024-01-08,Hansh Madan,Sikkim,India,Direct,Debit Card,44240
+TX0529,External Hard Drive,8,10025,2023-11-16,Dhruv Rajan,Kerala,India,Store,Credit Card,80200
+TX0530,Smartwatch,3,11906,2024-02-06,Jayesh Sethi,Uttarakhand,India,Store,UPI,35718
+TX0531,Headphones,7,9208,2024-03-22,Kavya Majumdar,Maharashtra,India,Store,Cash,64456
+TX0532,Tablet,2,11414,2024-05-26,Badal Yadav,Maharashtra,India,Direct,Credit Card,22828
+TX0533,E-Reader,4,8430,2024-05-29,Badal Dara,West Bengal,India,Online,UPI,33720
+TX0534,Camera,8,11339,2024-07-26,Lakshay Kadakia,Assam,India,Store,UPI,90712
+TX0535,Printer,1,6564,2023-12-19,Ranbir Wason,Uttar Pradesh,India,Direct,Debit Card,6564
+TX0536,Smartwatch,6,11791,2023-10-09,Pari Badami,Haryana,India,Direct,Credit Card,70746
+TX0537,Printer,5,6868,2023-12-15,Indrans Raman,Chhattisgarh,India,Direct,UPI,34340
+TX0538,Desktop PC,6,6980,2024-08-15,Yuvaan Dar,Uttarakhand,India,Direct,Net Banking,41880
+TX0539,Smartphone,6,11373,2023-10-01,Bhavin Bobal,Madhya Pradesh,India,Online,UPI,68238
+TX0540,Printer,4,17165,2024-03-03,Samaira Ravel,Arunachal Pradesh,India,Store,Cash,68660
+TX0541,Camera,9,2603,2024-01-13,Abram Anne,Madhya Pradesh,India,Store,Cash,23427
+TX0542,Printer,1,8234,2024-03-01,Aayush Yohannan,Haryana,India,Store,UPI,8234
+TX0543,Tablet,2,13802,2024-03-03,Yakshit Khare,Uttar Pradesh,India,Direct,UPI,27604
+TX0544,Desktop PC,6,8066,2024-04-16,Nakul Batra,Tripura,India,Online,Cash,48396
+TX0545,Headphones,5,12463,2023-10-26,Anya Saha,Kerala,India,Store,Debit Card,62315
+TX0546,Camera,2,12001,2024-05-30,Ela Rout,Haryana,India,Direct,Debit Card,24002
+TX0547,Desktop PC,6,9992,2024-05-14,Jayant Kade,Andhra Pradesh,India,Direct,Net Banking,59952
+TX0548,Camera,1,17347,2024-05-25,Charvi Sura,Himachal Pradesh,India,Online,Debit Card,17347
+TX0549,Printer,7,10393,2024-02-15,Samarth Saxena,Gujarat,India,Store,Cash,72751
+TX0550,Laptop,9,14079,2023-11-10,Nirvaan Sibal,Odisha,India,Online,Cash,126711
+TX0551,Tablet,9,4096,2023-12-12,Azad Gaba,Jharkhand,India,Store,Net Banking,36864
+TX0552,Laptop,7,4366,2024-02-29,Abram Vasa,Arunachal Pradesh,India,Store,Net Banking,30562
+TX0553,Camera,4,17304,2024-02-10,Shalv Wason,Chhattisgarh,India,Store,UPI,69216
+TX0554,Printer,5,5077,2024-01-28,Anay Sandhu,Madhya Pradesh,India,Direct,Cash,25385
+TX0555,Desktop PC,5,9777,2024-05-31,Urvi Raja,Uttarakhand,India,Direct,Debit Card,48885
+TX0556,E-Reader,4,2055,2024-05-05,Uthkarsh Chaudhari,Tamil Nadu,India,Direct,Cash,8220
+TX0557,Camera,7,9644,2024-09-15,Navya Raman,Nagaland,India,Direct,Net Banking,67508
+TX0558,Camera,6,4086,2024-01-12,Damini Lala,Bihar,India,Direct,Net Banking,24516
+TX0559,Desktop PC,9,14849,2023-09-24,Sara Rastogi,Jharkhand,India,Online,UPI,133641
+TX0560,Smartphone,2,4312,2024-03-16,Vardaniya Sathe,Karnataka,India,Online,UPI,8624
+TX0561,Smartwatch,4,7442,2024-06-16,Prisha Divan,Chhattisgarh,India,Direct,Debit Card,29768
+TX0562,Desktop PC,9,17627,2024-06-07,Nirvi Randhawa,Jharkhand,India,Online,UPI,158643
+TX0563,Printer,2,5466,2024-09-22,Pranay Ram,Nagaland,India,Online,Net Banking,10932
+TX0564,Printer,6,6116,2024-06-17,Emir Chakraborty,Bihar,India,Store,Cash,36696
+TX0565,Laptop,9,11316,2023-12-23,Hridaan Dugar,Rajasthan,India,Store,Cash,101844
+TX0566,Desktop PC,1,7902,2024-01-12,Vihaan Loyal,Mizoram,India,Online,Debit Card,7902
+TX0567,Smartwatch,4,5704,2024-02-16,Miraan Sachdeva,Manipur,India,Store,Credit Card,22816
+TX0568,External Hard Drive,8,2052,2024-01-28,Purab Varkey,Himachal Pradesh,India,Online,Cash,16416
+TX0569,Camera,2,10647,2024-07-25,Kashvi Zachariah,Nagaland,India,Direct,Debit Card,21294
+TX0570,Tablet,8,18029,2024-06-04,Ranbir Ranganathan,West Bengal,India,Store,UPI,144232
+TX0571,Tablet,9,11842,2024-01-04,Zoya Swamy,Sikkim,India,Direct,Debit Card,106578
+TX0572,Camera,1,19134,2024-01-21,Eshani Kari,Nagaland,India,Online,Cash,19134
+TX0573,Laptop,8,2819,2023-12-15,Ela Khalsa,West Bengal,India,Store,Cash,22552
+TX0574,Desktop PC,6,9200,2024-05-03,Lavanya Swamy,Karnataka,India,Direct,UPI,55200
+TX0575,External Hard Drive,7,6870,2023-11-15,Divit Dhingra,Jharkhand,India,Online,Cash,48090
+TX0576,Camera,9,3099,2024-09-12,Kismat Banik,Manipur,India,Online,Cash,27891
+TX0577,E-Reader,8,4556,2024-04-27,Adira Krish,Gujarat,India,Store,Debit Card,36448
+TX0578,Printer,6,7830,2023-12-15,Umang Saraf,Uttar Pradesh,India,Online,Debit Card,46980
+TX0579,Smartphone,2,13048,2023-10-07,Parinaaz Bhakta,Himachal Pradesh,India,Direct,Cash,26096
+TX0580,Desktop PC,1,15196,2024-04-27,Romil Varty,Mizoram,India,Store,Debit Card,15196
+TX0581,Printer,1,3477,2024-08-02,Miraya Manda,Uttarakhand,India,Online,Net Banking,3477
+TX0582,Smartwatch,6,2442,2024-04-17,Anaya Kakar,Uttarakhand,India,Direct,UPI,14652
+TX0583,Tablet,7,12624,2024-01-11,Mehul Grewal,Jharkhand,India,Online,Debit Card,88368
+TX0584,Smartwatch,4,3025,2024-03-25,Ishita Bhat,Meghalaya,India,Store,Net Banking,12100
+TX0585,Headphones,7,16036,2023-11-20,Pihu Toor,Haryana,India,Store,Net Banking,112252
+TX0586,E-Reader,2,19101,2024-01-06,Nirvi Acharya,Manipur,India,Store,Debit Card,38202
+TX0587,Smartphone,8,11818,2024-02-08,Saira Guha,Tamil Nadu,India,Store,Debit Card,94544
+TX0588,External Hard Drive,8,15424,2024-05-07,Yakshit Luthra,Tamil Nadu,India,Online,UPI,123392
+TX0589,Laptop,1,15461,2024-09-09,Kabir Sule,Karnataka,India,Online,Net Banking,15461
+TX0590,Printer,8,7096,2023-10-23,Drishya Dani,Arunachal Pradesh,India,Online,Credit Card,56768
+TX0591,E-Reader,7,18410,2024-06-14,Bhavin Sharma,Goa,India,Direct,Debit Card,128870
+TX0592,Desktop PC,1,11965,2024-05-05,Anahita Dyal,Madhya Pradesh,India,Direct,Net Banking,11965
+TX0593,Camera,5,10760,2024-03-08,Mohanlal Hegde,Arunachal Pradesh,India,Store,Cash,53800
+TX0594,E-Reader,3,10250,2024-04-22,Saira Dixit,Maharashtra,India,Store,UPI,30750
+TX0595,Camera,8,17199,2024-08-02,Stuvan Dani,Nagaland,India,Online,Credit Card,137592
+TX0596,Desktop PC,6,8364,2024-06-15,Eshani Krishnan,Bihar,India,Direct,Net Banking,50184
+TX0597,Printer,3,12522,2023-10-15,Lakshit Rastogi,Maharashtra,India,Direct,UPI,37566
+TX0598,Laptop,9,8417,2023-12-25,Nayantara Sankar,Himachal Pradesh,India,Store,Debit Card,75753
+TX0599,Desktop PC,6,8852,2023-10-05,Prisha Kapoor,Arunachal Pradesh,India,Direct,Net Banking,53112
+TX0600,E-Reader,7,13998,2023-10-26,Kabir Agate,Tripura,India,Online,Net Banking,97986
+TX0601,Camera,7,19756,2024-08-29,Vanya Master,Chhattisgarh,India,Store,Cash,138292
+TX0602,Headphones,5,10008,2024-06-17,Mishti Vig,Telangana,India,Online,UPI,50040
+TX0603,E-Reader,2,9963,2024-08-15,Umang Vaidya,Punjab,India,Direct,UPI,19926
+TX0604,Laptop,6,12246,2024-01-20,Rohan Garde,Tripura,India,Store,UPI,73476
+TX0605,Smartphone,5,2903,2024-07-21,Navya Gokhale,Rajasthan,India,Online,Net Banking,14515
+TX0606,Laptop,6,4741,2024-08-08,Stuvan Korpal,Andhra Pradesh,India,Online,Net Banking,28446
+TX0607,E-Reader,6,14151,2024-09-22,Farhan Trivedi,Andhra Pradesh,India,Direct,UPI,84906
+TX0608,External Hard Drive,7,15816,2024-01-07,Indrans Sridhar,Manipur,India,Online,Credit Card,110712
+TX0609,Camera,4,12266,2024-09-03,Ira Sarna,Odisha,India,Online,Credit Card,49064
+TX0610,Camera,9,5707,2023-11-06,Nirvi Shere,Maharashtra,India,Direct,UPI,51363
+TX0611,E-Reader,2,18165,2024-06-26,Vihaan Basak,Rajasthan,India,Store,Net Banking,36330
+TX0612,Camera,5,19501,2024-02-06,Purab Tandon,West Bengal,India,Store,Cash,97505
+TX0613,Printer,3,17892,2024-07-03,Aaryahi Karpe,Assam,India,Store,Credit Card,53676
+TX0614,Headphones,8,8584,2024-06-09,Zaina Kar,Uttar Pradesh,India,Store,UPI,68672
+TX0615,Laptop,5,4688,2024-02-27,Zoya Hora,Sikkim,India,Direct,UPI,23440
+TX0616,Smartphone,2,18787,2023-10-12,Inaaya  Joshi,Bihar,India,Online,Debit Card,37574
+TX0617,Headphones,9,16791,2024-07-25,Divyansh Krish,Uttar Pradesh,India,Store,UPI,151119
+TX0618,Tablet,3,5486,2024-02-17,Ehsaan Sanghvi,Rajasthan,India,Direct,Credit Card,16458
+TX0619,Desktop PC,4,5621,2024-09-10,Nirvi Sehgal,Rajasthan,India,Store,Cash,22484
+TX0620,Desktop PC,4,3918,2024-06-17,Krish Ray,Rajasthan,India,Online,Cash,15672
+TX0621,Smartwatch,5,6073,2023-12-10,Navya Wagle,Gujarat,India,Online,Debit Card,30365
+TX0622,Headphones,2,14933,2023-12-18,Eshani Sule,Uttar Pradesh,India,Direct,UPI,29866
+TX0623,Desktop PC,7,14347,2024-08-20,Romil Chokshi,Bihar,India,Store,Debit Card,100429
+TX0624,Camera,3,10144,2023-12-30,Divij Balakrishnan,Chhattisgarh,India,Online,Credit Card,30432
+TX0625,Camera,6,2966,2024-03-25,Siya Sachdev,Tripura,India,Direct,Debit Card,17796
+TX0626,Smartwatch,5,5275,2024-04-11,Vivaan Kant,Odisha,India,Store,Cash,26375
+TX0627,Headphones,2,11873,2024-08-09,Anika Chadha,Sikkim,India,Store,Net Banking,23746
+TX0628,Camera,6,2757,2024-02-04,Taran Cherian,Telangana,India,Direct,UPI,16542
+TX0629,E-Reader,5,19994,2024-08-02,Ojas Varughese,West Bengal,India,Store,UPI,99970
+TX0630,Printer,6,16630,2024-06-05,Kiaan Sidhu,Haryana,India,Store,Debit Card,99780
+TX0631,Camera,8,8724,2024-08-11,Ishita Babu,Telangana,India,Store,Cash,69792
+TX0632,Printer,5,12619,2023-12-29,Ivana Kumar,Madhya Pradesh,India,Store,Debit Card,63095
+TX0633,External Hard Drive,5,14839,2023-11-10,Rhea Kara,Arunachal Pradesh,India,Store,UPI,74195
+TX0634,Desktop PC,3,6223,2024-07-01,Jiya Warrior,Madhya Pradesh,India,Direct,Cash,18669
+TX0635,Desktop PC,3,13471,2024-09-11,Jivin Karpe,Chhattisgarh,India,Store,UPI,40413
+TX0636,E-Reader,2,18397,2024-01-05,Ranbir Ratti,Uttarakhand,India,Online,Credit Card,36794
+TX0637,Camera,4,10678,2024-03-26,Romil Chanda,Meghalaya,India,Online,Debit Card,42712
+TX0638,Tablet,1,2359,2024-05-28,Raghav Chopra,Haryana,India,Online,Net Banking,2359
+TX0639,Tablet,2,16134,2023-10-14,Amira Zacharia,Himachal Pradesh,India,Online,UPI,32268
+TX0640,Smartphone,2,7202,2024-03-20,Piya Goyal,Uttar Pradesh,India,Direct,Cash,14404
+TX0641,Desktop PC,7,8306,2024-07-07,Lakshay Chanda,Haryana,India,Store,Net Banking,58142
+TX0642,Printer,9,2080,2024-06-28,Yuvaan Brahmbhatt,Goa,India,Store,Debit Card,18720
+TX0643,Laptop,7,2540,2024-02-17,Adira Korpal,Goa,India,Store,Debit Card,17780
+TX0644,Headphones,4,16729,2024-06-07,Misha Kaul,Manipur,India,Online,Credit Card,66916
+TX0645,Smartphone,1,14433,2024-08-12,Jayant Virk,Manipur,India,Store,UPI,14433
+TX0646,Desktop PC,8,5422,2024-05-21,Pari Lalla,Chhattisgarh,India,Store,UPI,43376
+TX0647,Tablet,4,13387,2024-01-08,Prisha Khosla,Maharashtra,India,Online,Cash,53548
+TX0648,Tablet,3,2101,2023-10-11,Biju Mann,Sikkim,India,Direct,Cash,6303
+TX0649,Smartphone,6,7819,2023-09-29,Bhamini Sagar,West Bengal,India,Store,Net Banking,46914
+TX0650,E-Reader,8,11402,2024-03-28,Gokul Raju,Manipur,India,Store,Net Banking,91216
+TX0651,Laptop,4,5346,2024-08-06,Misha Kale,Arunachal Pradesh,India,Online,Cash,21384
+TX0652,Laptop,5,8668,2023-09-30,Lakshay Dhar,Madhya Pradesh,India,Online,Cash,43340
+TX0653,External Hard Drive,8,4945,2024-05-26,Samarth Rastogi,Gujarat,India,Direct,UPI,39560
+TX0654,E-Reader,7,15595,2024-06-15,Himmat Dhawan,Tamil Nadu,India,Store,Debit Card,109165
+TX0655,Desktop PC,8,12179,2024-04-25,Eva Bedi,Goa,India,Direct,Credit Card,97432
+TX0656,E-Reader,4,12173,2024-07-14,Aniruddh Dutt,Odisha,India,Direct,Debit Card,48692
+TX0657,Camera,7,2784,2024-07-21,Neelofar Vora,Haryana,India,Store,UPI,19488
+TX0658,Desktop PC,4,5846,2024-04-27,Kashvi Issac,Chhattisgarh,India,Store,Credit Card,23384
+TX0659,External Hard Drive,8,3851,2024-09-15,Rohan Kala,Himachal Pradesh,India,Store,Debit Card,30808
+TX0660,Headphones,2,14799,2024-07-18,Aayush Sachdev,Tamil Nadu,India,Store,UPI,29598
+TX0661,Smartphone,4,8564,2024-07-30,Divij Varma,Tripura,India,Direct,Net Banking,34256
+TX0662,Headphones,8,16764,2024-04-18,Saanvi Sagar,Nagaland,India,Direct,UPI,134112
+TX0663,External Hard Drive,9,5797,2023-11-08,Aarna Bhalla,Tamil Nadu,India,Store,Cash,52173
+TX0664,Camera,9,3962,2024-02-23,Ela Bhagat,Uttarakhand,India,Online,Net Banking,35658
+TX0665,Desktop PC,5,10973,2024-08-11,Kashvi Goswami,Nagaland,India,Store,Net Banking,54865
+TX0666,Desktop PC,6,13177,2023-10-22,Manjari Bhavsar,Meghalaya,India,Store,Cash,79062
+TX0667,Desktop PC,4,18712,2024-09-08,Ela Bora,Assam,India,Online,Net Banking,74848
+TX0668,Smartwatch,7,11566,2024-05-29,Samaira Bhattacharyya,Himachal Pradesh,India,Direct,Cash,80962
+TX0669,Smartwatch,7,10802,2023-10-17,Advika Gill,Tamil Nadu,India,Online,Cash,75614
+TX0670,Printer,3,9696,2024-04-27,Abram Sridhar,Haryana,India,Direct,Credit Card,29088
+TX0671,Headphones,4,4309,2024-03-15,Lakshay Gupta,Madhya Pradesh,India,Online,Credit Card,17236
+TX0672,Tablet,6,11655,2024-05-10,Zoya Lal,West Bengal,India,Direct,Net Banking,69930
+TX0673,Printer,8,17261,2023-10-31,Vardaniya Yogi,Punjab,India,Store,Credit Card,138088
+TX0674,Desktop PC,1,10443,2024-06-16,Oorja Bera,Uttar Pradesh,India,Online,Credit Card,10443
+TX0675,Smartphone,8,5962,2024-05-04,Dhruv Batta,Chhattisgarh,India,Online,Cash,47696
+TX0676,Laptop,2,11124,2024-08-20,Biju Gera,Madhya Pradesh,India,Online,UPI,22248
+TX0677,External Hard Drive,3,14475,2023-10-02,Armaan Viswanathan,West Bengal,India,Online,Net Banking,43425
+TX0678,Printer,6,13298,2024-05-03,Ivan Thakur,Karnataka,India,Direct,Debit Card,79788
+TX0679,Smartphone,1,9110,2024-02-29,Piya Char,Bihar,India,Direct,Credit Card,9110
+TX0680,Smartphone,6,2344,2023-09-25,Hunar Madan,Odisha,India,Direct,Cash,14064
+TX0681,Headphones,9,7137,2024-08-12,Mishti Badal,Telangana,India,Online,Debit Card,64233
+TX0682,Smartwatch,9,11776,2024-04-23,Vivaan Bajwa,Meghalaya,India,Store,Cash,105984
+TX0683,Printer,3,17360,2024-03-06,Prerak Halder,Sikkim,India,Store,Cash,52080
+TX0684,Desktop PC,6,5530,2024-07-12,Samaira Mahal,Meghalaya,India,Direct,Net Banking,33180
+TX0685,Camera,4,8769,2024-05-21,Mannat Dada,Haryana,India,Store,Debit Card,35076
+TX0686,Desktop PC,2,9172,2024-09-13,Himmat Edwin,Bihar,India,Online,Debit Card,18344
+TX0687,Laptop,8,3663,2024-08-31,Himmat Amble,Haryana,India,Direct,Cash,29304
+TX0688,External Hard Drive,4,6893,2024-09-10,Abram Barad,Nagaland,India,Direct,Debit Card,27572
+TX0689,Laptop,9,3264,2024-08-15,Jayesh Gill,Meghalaya,India,Online,Debit Card,29376
+TX0690,E-Reader,6,3549,2024-08-05,Yuvraj  Joshi,Himachal Pradesh,India,Direct,Net Banking,21294
+TX0691,Laptop,6,6371,2024-05-17,Nitya Lal,Haryana,India,Direct,Cash,38226
+TX0692,Camera,2,18425,2024-04-30,Tara Ganguly,Odisha,India,Direct,UPI,36850
+TX0693,E-Reader,8,9596,2024-01-21,Veer Kalita,Tamil Nadu,India,Online,Credit Card,76768
+TX0694,Laptop,3,16387,2024-07-15,Inaaya  Chaudhuri,Goa,India,Store,Net Banking,49161
+TX0695,Desktop PC,2,12994,2024-09-17,Biju Hayer,Maharashtra,India,Online,Cash,25988
+TX0696,Printer,1,6005,2024-07-08,Kavya Bajaj,Karnataka,India,Direct,UPI,6005
+TX0697,Smartwatch,2,11742,2024-01-19,Ryan Wadhwa,West Bengal,India,Online,Cash,23484
+TX0698,Smartwatch,1,19060,2024-06-06,Emir Choudhury,Maharashtra,India,Online,UPI,19060
+TX0699,Smartwatch,2,17474,2024-06-18,Seher Jayaraman,Maharashtra,India,Direct,Cash,34948
+TX0700,E-Reader,2,15444,2024-01-19,Alisha Char,Nagaland,India,Online,UPI,30888
+TX0701,Smartwatch,7,10178,2024-06-05,Umang Dugar,Goa,India,Store,Net Banking,71246
+TX0702,Smartwatch,9,2303,2023-12-27,Adira Chakrabarti,Karnataka,India,Direct,Credit Card,20727
+TX0703,Camera,9,12112,2024-03-24,Divyansh Ramesh,Himachal Pradesh,India,Online,Cash,109008
+TX0704,Tablet,4,14081,2024-01-30,Dhruv Rao,Jharkhand,India,Online,Debit Card,56324
+TX0705,External Hard Drive,3,14747,2023-12-09,Aaryahi Sidhu,Jharkhand,India,Direct,UPI,44241
+TX0706,Headphones,1,18878,2024-08-26,Kavya Koshy,Bihar,India,Online,Debit Card,18878
+TX0707,Camera,8,5589,2023-11-15,Shanaya Setty,Nagaland,India,Store,Net Banking,44712
+TX0708,Laptop,5,9063,2024-06-16,Hansh Issac,Assam,India,Online,Debit Card,45315
+TX0709,Smartphone,7,9334,2024-03-02,Farhan Kumer,Kerala,India,Online,Net Banking,65338
+TX0710,Camera,1,9152,2024-04-15,Nirvi Zachariah,Sikkim,India,Direct,Credit Card,9152
+TX0711,External Hard Drive,6,12514,2024-01-09,Madhup Mani,Arunachal Pradesh,India,Online,Debit Card,75084
+TX0712,Smartwatch,4,8238,2023-12-07,Aarna Chaudhary,Himachal Pradesh,India,Store,Cash,32952
+TX0713,Camera,4,16111,2024-01-30,Shaan Sankar,Haryana,India,Online,Debit Card,64444
+TX0714,Smartphone,5,9445,2024-06-17,Onkar Chanda,Sikkim,India,Online,Cash,47225
+TX0715,External Hard Drive,1,7089,2024-09-17,Hrishita Bahl,Rajasthan,India,Direct,Debit Card,7089
+TX0716,Desktop PC,7,3354,2023-11-09,Nitya Ramaswamy,Punjab,India,Direct,UPI,23478
+TX0717,Laptop,6,12348,2023-11-19,Dhanuk Bhatnagar,Meghalaya,India,Store,Credit Card,74088
+TX0718,Headphones,4,18979,2024-03-31,Zoya Kala,Tamil Nadu,India,Direct,Credit Card,75916
+TX0719,Smartphone,1,6243,2024-07-29,Eshani Bhakta,Manipur,India,Online,Credit Card,6243
+TX0720,Desktop PC,1,13423,2024-05-22,Tejas Kadakia,Chhattisgarh,India,Online,Credit Card,13423
+TX0721,Smartwatch,2,4855,2024-09-07,Aayush Varkey,Bihar,India,Direct,Cash,9710
+TX0722,Headphones,3,2609,2024-02-22,Aarav Khatri,Telangana,India,Online,UPI,7827
+TX0723,Desktop PC,1,14204,2024-01-13,Misha Arya,Rajasthan,India,Online,Credit Card,14204
+TX0724,E-Reader,3,12484,2024-03-17,Dhanush Sharma,Tamil Nadu,India,Store,Net Banking,37452
+TX0725,Headphones,3,14012,2023-11-10,Riya Din,Haryana,India,Direct,Credit Card,42036
+TX0726,Smartphone,7,18822,2023-12-29,Anahi Sanghvi,Uttarakhand,India,Online,Credit Card,131754
+TX0727,Smartphone,8,13998,2024-06-03,Sumer Talwar,Odisha,India,Store,Credit Card,111984
+TX0728,Smartphone,9,16823,2024-04-30,Indranil Desai,Sikkim,India,Store,Credit Card,151407
+TX0729,External Hard Drive,9,8334,2024-01-02,Bhavin Sachdeva,West Bengal,India,Store,Credit Card,75006
+TX0730,Printer,3,8348,2024-07-08,Kiaan Rama,Uttarakhand,India,Store,Net Banking,25044
+TX0731,Headphones,5,15200,2024-07-21,Alisha Thaman,Arunachal Pradesh,India,Online,Cash,76000
+TX0732,Tablet,8,2080,2023-09-25,Jiya Dewan,Maharashtra,India,Direct,Cash,16640
+TX0733,Smartwatch,8,4558,2023-12-25,Shamik Saraf,Haryana,India,Online,Debit Card,36464
+TX0734,Desktop PC,6,11350,2024-07-10,Yashvi Bansal,Meghalaya,India,Store,UPI,68100
+TX0735,E-Reader,8,17316,2024-06-25,Madhav Chokshi,Telangana,India,Online,Credit Card,138528
+TX0736,Laptop,3,11886,2024-03-29,Jiya Vora,Odisha,India,Online,Credit Card,35658
+TX0737,Smartphone,5,14876,2024-04-03,Farhan Goyal,Andhra Pradesh,India,Store,Net Banking,74380
+TX0738,Headphones,2,12107,2023-11-14,Sumer Dar,Nagaland,India,Direct,Credit Card,24214
+TX0739,Printer,2,6789,2024-08-30,Chirag Lad,Assam,India,Direct,Credit Card,13578
+TX0740,External Hard Drive,2,2602,2024-09-22,Aaina Kota,Sikkim,India,Direct,Debit Card,5204
+TX0741,Smartwatch,8,7522,2024-05-28,Tejas Dewan,Nagaland,India,Direct,Cash,60176
+TX0742,Tablet,1,10824,2024-08-02,Onkar Badal,Gujarat,India,Direct,Net Banking,10824
+TX0743,Tablet,1,7250,2024-06-09,Ranbir Sood,Kerala,India,Online,Net Banking,7250
+TX0744,Printer,3,8382,2024-09-12,Piya Sagar,Tamil Nadu,India,Online,Cash,25146
+TX0745,Smartphone,2,14569,2024-09-18,Samaira Barad,Rajasthan,India,Online,Cash,29138
+TX0746,Laptop,5,4341,2024-06-02,Neysa Dubey,Nagaland,India,Store,Debit Card,21705
+TX0747,Laptop,7,5477,2024-07-18,Aaryahi Sem,Uttar Pradesh,India,Store,Net Banking,38339
+TX0748,Laptop,1,2107,2024-05-11,Vanya Gour,Jharkhand,India,Direct,UPI,2107
+TX0749,Tablet,7,10696,2023-09-29,Aarna Goda,Tripura,India,Direct,Cash,74872
+TX0750,Camera,7,6933,2024-04-25,Sana Raju,Nagaland,India,Online,Net Banking,48531
+TX0751,External Hard Drive,3,7113,2024-05-09,Trisha Bora,Maharashtra,India,Direct,Net Banking,21339
+TX0752,E-Reader,9,7145,2024-04-30,Samar Roy,Odisha,India,Direct,Cash,64305
+TX0753,Laptop,7,18652,2024-09-14,Hridaan Chana,Mizoram,India,Store,Debit Card,130564
+TX0754,External Hard Drive,7,17924,2023-12-25,Aaina Biswas,Uttar Pradesh,India,Online,Credit Card,125468
+TX0755,E-Reader,6,10957,2024-03-24,Riya Kurian,Manipur,India,Direct,Debit Card,65742
+TX0756,Headphones,3,2073,2024-09-08,Romil Andra,West Bengal,India,Direct,Cash,6219
+TX0757,Headphones,6,13146,2024-02-02,Shamik Sami,Rajasthan,India,Direct,Net Banking,78876
+TX0758,Laptop,1,8728,2023-10-01,Kavya Shan,Manipur,India,Direct,UPI,8728
+TX0759,Smartphone,4,6570,2024-01-06,Navya Sami,Karnataka,India,Online,UPI,26280
+TX0760,E-Reader,8,3375,2024-06-12,Anvi Dutta,Uttarakhand,India,Online,Cash,27000
+TX0761,Smartwatch,1,10030,2024-04-11,Amani Garg,Himachal Pradesh,India,Store,Debit Card,10030
+TX0762,Printer,5,6862,2024-08-18,Gatik Gera,West Bengal,India,Store,UPI,34310
+TX0763,Headphones,2,5301,2024-06-30,Hridaan Tella,Haryana,India,Store,Cash,10602
+TX0764,Headphones,4,4342,2023-12-30,Saira Bedi,Punjab,India,Store,Net Banking,17368
+TX0765,Headphones,6,19584,2024-02-20,Shamik Date,Uttarakhand,India,Online,UPI,117504
+TX0766,Tablet,8,18902,2024-04-23,Tushar Dewan,Bihar,India,Store,Credit Card,151216
+TX0767,Smartwatch,7,15254,2024-04-16,Pari Vyas,Chhattisgarh,India,Online,Credit Card,106778
+TX0768,Tablet,3,19015,2024-03-13,Vaibhav Kanda,Tripura,India,Direct,Net Banking,57045
+TX0769,Smartphone,8,16703,2023-12-18,Ivan Khosla,Karnataka,India,Store,Net Banking,133624
+TX0770,E-Reader,4,11407,2023-10-01,Yakshit Tata,Uttarakhand,India,Online,Cash,45628
+TX0771,Tablet,5,19685,2024-04-11,Piya Agarwal,Andhra Pradesh,India,Store,Net Banking,98425
+TX0772,Tablet,8,2814,2024-07-05,Lagan Gola,Sikkim,India,Direct,Cash,22512
+TX0773,Headphones,1,11984,2024-03-17,Ira Kalla,Madhya Pradesh,India,Direct,Debit Card,11984
+TX0774,Desktop PC,1,13990,2024-06-13,Raunak Chahal,Manipur,India,Store,UPI,13990
+TX0775,Laptop,2,13930,2023-12-07,Rati Sarraf,Mizoram,India,Online,Credit Card,27860
+TX0776,External Hard Drive,9,14628,2024-08-30,Amira Rajagopal,Mizoram,India,Direct,UPI,131652
+TX0777,Smartwatch,4,9399,2024-09-19,Nayantara Agate,Tripura,India,Store,UPI,37596
+TX0778,Smartphone,6,7666,2024-01-25,Jivika Ramesh,Arunachal Pradesh,India,Store,Credit Card,45996
+TX0779,Laptop,1,13118,2024-09-08,Shayak Walla,Uttar Pradesh,India,Store,Cash,13118
+TX0780,External Hard Drive,2,3609,2024-05-18,Priyansh Loke,Kerala,India,Direct,Net Banking,7218
+TX0781,Printer,2,13592,2024-01-02,Amira Zacharia,Sikkim,India,Direct,Cash,27184
+TX0782,Tablet,4,17956,2023-09-25,Oorja Koshy,Nagaland,India,Direct,Net Banking,71824
+TX0783,Laptop,8,19303,2024-03-08,Rhea Dey,Nagaland,India,Direct,Debit Card,154424
+TX0784,Camera,4,11515,2023-10-21,Vidur Singh,Uttarakhand,India,Store,Debit Card,46060
+TX0785,External Hard Drive,8,10106,2024-03-25,Dhanuk Jha,Kerala,India,Store,UPI,80848
+TX0786,External Hard Drive,1,2653,2023-12-22,Chirag Tara,West Bengal,India,Store,Net Banking,2653
+TX0787,Camera,3,2504,2023-10-17,Farhan Tiwari,Madhya Pradesh,India,Online,Credit Card,7512
+TX0788,Camera,5,2367,2024-03-23,Tejas Kata,Maharashtra,India,Direct,Debit Card,11835
+TX0789,Desktop PC,5,11209,2024-06-06,Sana Kannan,Madhya Pradesh,India,Store,Credit Card,56045
+TX0790,Printer,7,2997,2024-01-29,Shlok Dutt,Karnataka,India,Direct,Debit Card,20979
+TX0791,External Hard Drive,1,7958,2024-08-27,Aarna Anne,Gujarat,India,Store,Credit Card,7958
+TX0792,Laptop,2,15737,2024-08-03,Vidur Mand,Odisha,India,Online,Credit Card,31474
+TX0793,External Hard Drive,8,15349,2024-05-21,Mishti Handa,Arunachal Pradesh,India,Online,Cash,122792
+TX0794,Tablet,7,14294,2024-09-23,Hunar Karpe,Sikkim,India,Online,UPI,100058
+TX0795,Camera,6,7123,2024-02-05,Himmat Varma,Gujarat,India,Store,Debit Card,42738
+TX0796,External Hard Drive,6,16411,2024-06-30,Arhaan Thakur,Uttarakhand,India,Store,Credit Card,98466
+TX0797,Desktop PC,8,8222,2024-04-23,Devansh Kalla,Telangana,India,Store,Credit Card,65776
+TX0798,E-Reader,4,7402,2024-05-01,Dhanush Dhar,Assam,India,Store,Debit Card,29608
+TX0799,Tablet,7,8911,2023-12-09,Indrans Hayer,Odisha,India,Direct,Cash,62377
+TX0800,External Hard Drive,9,3588,2024-02-10,Drishya Ramesh,Himachal Pradesh,India,Online,UPI,32292
+TX0801,Laptop,9,7009,2024-05-13,Trisha Mani,Assam,India,Online,Cash,63081
+TX0802,Headphones,3,7308,2024-02-08,Farhan Lad,Punjab,India,Direct,Debit Card,21924
+TX0803,E-Reader,2,2969,2024-08-07,Sumer Yogi,Maharashtra,India,Online,Net Banking,5938
+TX0804,Smartwatch,1,14387,2023-12-17,Shayak Deol,Mizoram,India,Store,Net Banking,14387
+TX0805,Tablet,9,15209,2023-10-14,Zara Sule,Uttarakhand,India,Online,Net Banking,136881
+TX0806,Desktop PC,8,18947,2024-01-09,Kiara Sheth,Manipur,India,Direct,UPI,151576
+TX0807,Laptop,8,10527,2024-03-30,Rohan Madan,Kerala,India,Direct,Credit Card,84216
+TX0808,Camera,1,4289,2024-06-04,Alia Hora,Telangana,India,Direct,Net Banking,4289
+TX0809,Tablet,5,12677,2024-08-10,Vritika Rastogi,Uttar Pradesh,India,Direct,Credit Card,63385
+TX0810,Tablet,9,5863,2023-10-20,Lakshay Manne,Tamil Nadu,India,Store,Net Banking,52767
+TX0811,Laptop,1,7100,2024-08-05,Anvi Dass,Assam,India,Direct,Debit Card,7100
+TX0812,Headphones,5,18358,2024-05-10,Krish Venkataraman,West Bengal,India,Store,UPI,91790
+TX0813,Smartwatch,6,9531,2023-09-27,Ranbir Din,Manipur,India,Direct,Net Banking,57186
+TX0814,Camera,8,8763,2024-04-24,Hansh Bir,Meghalaya,India,Direct,Credit Card,70104
+TX0815,Tablet,3,19942,2023-11-03,Tara Jhaveri,Chhattisgarh,India,Online,Cash,59826
+TX0816,External Hard Drive,5,3372,2024-05-28,Shayak Raju,Kerala,India,Direct,Debit Card,16860
+TX0817,Smartphone,8,6078,2024-04-28,Zara Brahmbhatt,Gujarat,India,Store,UPI,48624
+TX0818,Camera,6,9211,2024-09-19,Saksham Gopal,Tripura,India,Direct,Net Banking,55266
+TX0819,Laptop,1,2909,2023-10-29,Madhup Rau,Uttar Pradesh,India,Store,Debit Card,2909
+TX0820,Laptop,5,19613,2024-05-29,Ehsaan Divan,Sikkim,India,Direct,Debit Card,98065
+TX0821,External Hard Drive,5,9592,2023-10-24,Chirag Sandhu,Arunachal Pradesh,India,Direct,Debit Card,47960
+TX0822,Smartwatch,1,8781,2024-07-25,Faiyaz Talwar,Uttar Pradesh,India,Store,UPI,8781
+TX0823,Printer,3,10670,2023-11-30,Heer Din,Jharkhand,India,Direct,Debit Card,32010
+TX0824,Tablet,6,12002,2024-04-14,Arnav Krishnamurthy,Meghalaya,India,Store,Cash,72012
+TX0825,Tablet,6,10944,2024-04-25,Faiyaz Dewan,Punjab,India,Store,Net Banking,65664
+TX0826,Smartphone,4,7250,2024-06-11,Mohanlal Sachdeva,Himachal Pradesh,India,Store,UPI,29000
+TX0827,Smartphone,1,18411,2024-06-29,Saira Srinivas,Meghalaya,India,Store,Debit Card,18411
+TX0828,Tablet,1,18776,2023-12-14,Jayan Sodhi,Maharashtra,India,Direct,Credit Card,18776
+TX0829,Camera,2,5819,2024-09-02,Vedika Maharaj,Kerala,India,Store,Cash,11638
+TX0830,Laptop,3,7683,2024-05-14,Jayan Kota,Jharkhand,India,Store,Cash,23049
+TX0831,External Hard Drive,2,2215,2024-07-08,Khushi Sangha,Meghalaya,India,Direct,UPI,4430
+TX0832,Smartphone,1,13071,2024-07-20,Piya Gopal,Jharkhand,India,Store,Credit Card,13071
+TX0833,Printer,2,16861,2024-01-21,Piya Halder,Tamil Nadu,India,Direct,Credit Card,33722
+TX0834,Smartphone,7,13100,2024-04-04,Nitara Bhalla,Rajasthan,India,Store,Debit Card,91700
+TX0835,Printer,4,9922,2024-03-10,Jiya Thaman,Arunachal Pradesh,India,Online,Credit Card,39688
+TX0836,External Hard Drive,5,6746,2024-01-23,Umang Khosla,West Bengal,India,Online,UPI,33730
+TX0837,Tablet,4,14562,2024-08-08,Abram Dada,Tamil Nadu,India,Direct,UPI,58248
+TX0838,Laptop,7,5556,2024-08-06,Pihu Bajaj,Manipur,India,Online,Debit Card,38892
+TX0839,Camera,5,6215,2024-09-12,Bhamini Varty,Tamil Nadu,India,Store,Cash,31075
+TX0840,Tablet,3,13977,2023-10-16,Shray Halder,Manipur,India,Online,Cash,41931
+TX0841,Smartphone,4,17086,2023-11-20,Aaryahi Dass,Assam,India,Direct,Cash,68344
+TX0842,Laptop,7,5469,2024-07-13,Jhanvi Kanda,Nagaland,India,Online,Net Banking,38283
+TX0843,Laptop,4,9692,2024-04-14,Shalv Shan,Tripura,India,Online,Cash,38768
+TX0844,Camera,4,14957,2023-12-24,Neysa Sengupta,Tripura,India,Direct,Net Banking,59828
+TX0845,Camera,9,2077,2024-01-12,Saksham Chacko,Tripura,India,Store,Debit Card,18693
+TX0846,Tablet,2,6796,2024-06-23,Jayan Dhar,Madhya Pradesh,India,Store,Net Banking,13592
+TX0847,Smartwatch,4,2588,2024-02-22,Vardaniya Mani,Himachal Pradesh,India,Store,Debit Card,10352
+TX0848,Printer,4,15541,2024-01-25,Vardaniya Bakshi,Rajasthan,India,Online,Net Banking,62164
+TX0849,Smartwatch,2,17469,2023-09-25,Samarth Tak,Andhra Pradesh,India,Online,Net Banking,34938
+TX0850,Printer,6,17852,2024-08-21,Ojas Mangal,Andhra Pradesh,India,Store,Credit Card,107112
+TX0851,Camera,4,12097,2023-10-22,Sumer Chhabra,Meghalaya,India,Store,Net Banking,48388
+TX0852,E-Reader,7,14091,2023-12-02,Sumer Bandi,Uttar Pradesh,India,Store,Credit Card,98637
+TX0853,Headphones,5,8799,2024-05-20,Dhruv Rajagopalan,Arunachal Pradesh,India,Online,UPI,43995
+TX0854,Headphones,9,16774,2024-02-12,Ayesha Jhaveri,Jharkhand,India,Direct,UPI,150966
+TX0855,Laptop,6,6768,2023-11-01,Ira Ratti,Sikkim,India,Store,UPI,40608
+TX0856,Smartphone,8,13984,2024-07-13,Anika Chakrabarti,Maharashtra,India,Store,Credit Card,111872
+TX0857,Laptop,2,7106,2024-09-03,Shanaya Yogi,West Bengal,India,Store,Credit Card,14212
+TX0858,Camera,9,8515,2024-02-05,Eshani Bassi,Manipur,India,Direct,Cash,76635
+TX0859,Smartphone,3,11330,2024-04-07,Armaan Garde,Assam,India,Direct,UPI,33990
+TX0860,Desktop PC,1,17729,2024-04-14,Adira Roy,Manipur,India,Direct,Debit Card,17729
+TX0861,E-Reader,1,14299,2024-07-20,Nirvaan Dubey,Tripura,India,Direct,Credit Card,14299
+TX0862,Laptop,5,4319,2024-08-08,Yuvraj  Lanka,Jharkhand,India,Store,UPI,21595
+TX0863,E-Reader,3,15593,2024-05-07,Divij Soman,Karnataka,India,Store,Cash,46779
+TX0864,Smartwatch,2,16289,2023-12-08,Vidur Comar,West Bengal,India,Store,Debit Card,32578
+TX0865,Smartphone,3,19146,2024-07-04,Shayak Chawla,Jharkhand,India,Online,Credit Card,57438
+TX0866,Smartphone,3,2859,2024-06-17,Manikya Buch,Chhattisgarh,India,Direct,Credit Card,8577
+TX0867,Printer,4,14764,2024-05-07,Adira Koshy,Rajasthan,India,Direct,Credit Card,59056
+TX0868,Laptop,5,16955,2024-03-28,Miraya Khanna,Telangana,India,Direct,Debit Card,84775
+TX0869,Laptop,8,7876,2023-11-02,Vanya Grewal,Jharkhand,India,Store,Net Banking,63008
+TX0870,Headphones,6,7878,2024-07-15,Parinaaz Brahmbhatt,Nagaland,India,Store,Net Banking,47268
+TX0871,Camera,2,14681,2024-06-04,Shray Bhatt,West Bengal,India,Online,UPI,29362
+TX0872,E-Reader,4,19270,2024-04-12,Aniruddh Amble,Chhattisgarh,India,Online,UPI,77080
+TX0873,Printer,2,12010,2023-11-23,Kavya Sagar,Tripura,India,Store,Cash,24020
+TX0874,Smartwatch,1,16471,2024-02-09,Nakul Jani,Telangana,India,Direct,Debit Card,16471
+TX0875,Desktop PC,2,11654,2024-07-12,Ehsaan Halder,Haryana,India,Store,UPI,23308
+TX0876,Tablet,5,17186,2023-10-14,Hrishita Hayer,Gujarat,India,Online,Cash,85930
+TX0877,Tablet,1,19739,2024-03-26,Khushi Kala,Meghalaya,India,Online,Net Banking,19739
+TX0878,Camera,3,8457,2024-06-25,Ishaan Sangha,Meghalaya,India,Direct,Cash,25371
+TX0879,Smartphone,2,12509,2024-05-13,Ela Bumb,Assam,India,Store,UPI,25018
+TX0880,Tablet,4,19352,2024-03-26,Ojas Thaker,Chhattisgarh,India,Direct,Debit Card,77408
+TX0881,External Hard Drive,2,2232,2024-04-18,Seher Rattan,West Bengal,India,Store,UPI,4464
+TX0882,Tablet,5,9954,2023-12-27,Kabir Dugal,Rajasthan,India,Store,Debit Card,49770
+TX0883,Camera,8,11931,2023-10-18,Devansh Ramakrishnan,Maharashtra,India,Online,UPI,95448
+TX0884,Headphones,6,15126,2024-03-09,Aradhya Chadha,Bihar,India,Direct,Cash,90756
+TX0885,Smartwatch,7,13822,2024-09-11,Lakshay Vasa,Punjab,India,Online,Credit Card,96754
+TX0886,Smartphone,3,17926,2024-05-24,Adah Swamy,Mizoram,India,Direct,Net Banking,53778
+TX0887,E-Reader,6,2043,2024-09-10,Aaina Maharaj,Haryana,India,Direct,UPI,12258
+TX0888,Printer,3,10769,2024-05-26,Kiaan Sahni,Bihar,India,Direct,Cash,32307
+TX0889,Printer,3,14645,2024-04-21,Nitara Kari,Karnataka,India,Online,Credit Card,43935
+TX0890,E-Reader,2,16598,2024-02-14,Bhavin Behl,Meghalaya,India,Direct,Debit Card,33196
+TX0891,Laptop,4,5244,2023-11-05,Bhamini Rana,Karnataka,India,Store,Debit Card,20976
+TX0892,External Hard Drive,9,2515,2024-05-12,Kaira Agarwal,Madhya Pradesh,India,Store,Net Banking,22635
+TX0893,Camera,4,12747,2024-05-20,Veer Gupta,Himachal Pradesh,India,Store,Cash,50988
+TX0894,Smartwatch,1,7414,2023-12-05,Shayak Warrior,Jharkhand,India,Direct,UPI,7414
+TX0895,External Hard Drive,8,8096,2024-07-02,Samar Chana,Goa,India,Online,UPI,64768
+TX0896,Printer,4,13698,2024-07-30,Tarini Agate,Himachal Pradesh,India,Direct,Cash,54792
+TX0897,Printer,9,10333,2024-08-12,Damini Gala,Kerala,India,Direct,UPI,92997
+TX0898,Camera,3,7974,2024-07-17,Kashvi Talwar,Nagaland,India,Online,UPI,23922
+TX0899,External Hard Drive,5,11047,2024-03-31,Ira Khanna,Tamil Nadu,India,Online,Net Banking,55235
+TX0900,Printer,4,10997,2023-11-02,Dhruv Vyas,West Bengal,India,Store,Cash,43988
+TX0901,Smartwatch,2,14125,2024-02-23,Rati Gupta,Manipur,India,Direct,Cash,28250
+TX0902,Laptop,7,14013,2024-03-14,Ayesha Mani,Chhattisgarh,India,Store,Net Banking,98091
+TX0903,External Hard Drive,6,6054,2024-07-04,Advika Sibal,Odisha,India,Online,Debit Card,36324
+TX0904,External Hard Drive,9,6614,2024-07-03,Biju Bobal,Assam,India,Store,Debit Card,59526
+TX0905,Tablet,5,5529,2024-02-19,Samarth Rama,Bihar,India,Store,Cash,27645
+TX0906,Smartwatch,4,16810,2024-05-24,Aarav Chander,Chhattisgarh,India,Store,UPI,67240
+TX0907,Tablet,7,6272,2024-05-26,Ishita Bahri,Odisha,India,Store,Debit Card,43904
+TX0908,Smartphone,6,8991,2024-07-01,Shlok Tiwari,Uttarakhand,India,Store,Net Banking,53946
+TX0909,Printer,4,15713,2024-07-29,Nitara Karan,Uttarakhand,India,Direct,Cash,62852
+TX0910,Smartwatch,8,13073,2024-07-04,Lakshit Shan,Jharkhand,India,Store,Cash,104584
+TX0911,Laptop,9,7531,2023-12-27,Azad Mammen,Kerala,India,Store,Debit Card,67779
+TX0912,Printer,9,19315,2024-04-06,Mehul Ravi,Tripura,India,Online,UPI,173835
+TX0913,Camera,4,12505,2024-03-07,Bhavin Bains,Bihar,India,Store,Credit Card,50020
+TX0914,Smartphone,8,15033,2024-01-30,Tanya Shah,Uttarakhand,India,Direct,UPI,120264
+TX0915,Laptop,9,10205,2023-12-26,Saksham Yohannan,Kerala,India,Online,Credit Card,91845
+TX0916,Tablet,6,15272,2023-11-02,Riya Bedi,Himachal Pradesh,India,Direct,Debit Card,91632
+TX0917,Laptop,8,3323,2024-07-27,Kaira Sarna,Chhattisgarh,India,Online,Net Banking,26584
+TX0918,Printer,3,3268,2024-09-10,Arnav Dhawan,Sikkim,India,Direct,Cash,9804
+TX0919,Smartwatch,8,12709,2024-03-12,Taimur Devi,West Bengal,India,Store,Cash,101672
+TX0920,Smartwatch,9,13766,2023-11-05,Adira Lanka,Sikkim,India,Online,UPI,123894
+TX0921,E-Reader,1,3348,2024-04-12,Kismat Korpal,Nagaland,India,Store,Net Banking,3348
+TX0922,Camera,8,3125,2024-02-28,Emir Tata,Karnataka,India,Direct,Debit Card,25000
+TX0923,Printer,5,17848,2023-10-18,Gokul Chaudhry,Manipur,India,Direct,Net Banking,89240
+TX0924,Laptop,9,6722,2024-01-20,Nitya Ganesh,Assam,India,Online,Net Banking,60498
+TX0925,Printer,5,9970,2023-12-15,Raghav Dayal,Odisha,India,Online,Debit Card,49850
+TX0926,E-Reader,5,10617,2024-03-15,Siya Kade,Goa,India,Online,UPI,53085
+TX0927,E-Reader,1,6877,2024-03-31,Khushi Bakshi,Karnataka,India,Direct,Debit Card,6877
+TX0928,Tablet,5,10063,2023-11-01,Indranil Bansal,Uttar Pradesh,India,Direct,Debit Card,50315
+TX0929,E-Reader,9,11329,2023-11-26,Gatik Dhillon,Mizoram,India,Online,Debit Card,101961
+TX0930,Tablet,1,18746,2024-01-20,Indrans Badal,Haryana,India,Online,Debit Card,18746
+TX0931,Camera,1,9661,2024-04-30,Aayush Jayaraman,Telangana,India,Direct,Cash,9661
+TX0932,Desktop PC,5,8950,2024-09-12,Yakshit Jha,Uttarakhand,India,Online,UPI,44750
+TX0933,Smartphone,8,17914,2024-09-06,Raunak Kant,Jharkhand,India,Direct,Net Banking,143312
+TX0934,Camera,4,6419,2024-09-15,Mishti Baral,Tripura,India,Online,Debit Card,25676
+TX0935,E-Reader,8,15595,2023-11-05,Zaina Raman,Odisha,India,Store,Credit Card,124760
+TX0936,Smartphone,8,17090,2024-08-19,Prisha Kamdar,Uttarakhand,India,Online,Cash,136720
+TX0937,Smartphone,3,9652,2024-03-10,Madhup Trivedi,Sikkim,India,Direct,Cash,28956
+TX0938,Laptop,3,19130,2024-02-21,Mehul Lalla,Chhattisgarh,India,Online,Debit Card,57390
+TX0939,Camera,2,5762,2023-10-07,Tarini Bhatt,Bihar,India,Store,Net Banking,11524
+TX0940,Smartphone,8,8188,2024-02-06,Misha Kapoor,Madhya Pradesh,India,Online,Credit Card,65504
+TX0941,Desktop PC,1,2564,2024-03-19,Saksham Kalla,Tamil Nadu,India,Store,Credit Card,2564
+TX0942,E-Reader,8,6268,2024-08-23,Taran Sachar,Tamil Nadu,India,Direct,Cash,50144
+TX0943,External Hard Drive,6,6177,2023-11-18,Miraya Sengupta,Haryana,India,Online,UPI,37062
+TX0944,Smartphone,8,2711,2024-01-07,Zain Khosla,Bihar,India,Direct,Cash,21688
+TX0945,Printer,2,7956,2023-10-18,Sana Mammen,Punjab,India,Online,Credit Card,15912
+TX0946,Smartphone,2,2106,2024-06-19,Hridaan Thaman,Gujarat,India,Online,UPI,4212
+TX0947,External Hard Drive,3,2754,2024-06-14,Chirag Ramesh,Maharashtra,India,Direct,Cash,8262
+TX0948,Laptop,5,3627,2024-04-11,Abram Manda,Madhya Pradesh,India,Online,Cash,18135
+TX0949,Smartwatch,2,9659,2023-11-06,Shlok Shankar,Chhattisgarh,India,Store,Cash,19318
+TX0950,Desktop PC,5,2937,2024-09-10,Divyansh Korpal,Gujarat,India,Online,Net Banking,14685
+TX0951,Laptop,6,13474,2024-02-20,Ahana  Sinha,Uttarakhand,India,Direct,Debit Card,80844
+TX0952,External Hard Drive,9,6509,2023-12-13,Arhaan Shankar,Tamil Nadu,India,Online,Net Banking,58581
+TX0953,Smartwatch,3,6082,2024-03-31,Keya Atwal,Sikkim,India,Online,Debit Card,18246
+TX0954,E-Reader,2,7484,2024-06-05,Kiaan Bhagat,Manipur,India,Direct,UPI,14968
+TX0955,External Hard Drive,7,10721,2024-05-03,Pihu Balan,Goa,India,Online,Debit Card,75047
+TX0956,Laptop,4,14785,2024-04-12,Bhavin Rama,Jharkhand,India,Store,Cash,59140
+TX0957,Camera,1,15873,2023-11-01,Krish Chawla,Arunachal Pradesh,India,Online,Credit Card,15873
+TX0958,External Hard Drive,4,5134,2024-03-10,Mehul Verma,West Bengal,India,Direct,Net Banking,20536
+TX0959,Tablet,6,15127,2024-04-21,Umang Dixit,Punjab,India,Direct,Net Banking,90762
+TX0960,E-Reader,2,11302,2024-02-12,Hansh Gour,Punjab,India,Online,Debit Card,22604
+TX0961,E-Reader,4,12747,2024-02-22,Vritika Chandran,Maharashtra,India,Store,Net Banking,50988
+TX0962,Desktop PC,8,19673,2024-03-26,Armaan Ratta,Jharkhand,India,Direct,Net Banking,157384
+TX0963,Printer,2,14206,2024-03-06,Azad Halder,Andhra Pradesh,India,Direct,Credit Card,28412
+TX0964,Laptop,2,6748,2024-07-21,Indrajit Vala,Kerala,India,Store,Cash,13496
+TX0965,Camera,8,15400,2023-11-04,Shayak Doshi,Jharkhand,India,Online,UPI,123200
+TX0966,Smartwatch,5,3397,2024-03-12,Priyansh Kalita,Manipur,India,Store,UPI,16985
+TX0967,Smartphone,3,17950,2024-02-20,Emir Bumb,Gujarat,India,Online,UPI,53850
+TX0968,Headphones,1,3825,2024-06-28,Myra Sankaran,Sikkim,India,Online,Net Banking,3825
+TX0969,Tablet,4,19086,2023-09-24,Zoya Halder,Himachal Pradesh,India,Online,Debit Card,76344
+TX0970,Smartphone,3,6733,2024-04-13,Oorja Bhasin,West Bengal,India,Online,Net Banking,20199
+TX0971,Smartwatch,5,7196,2024-05-21,Urvi Sood,Odisha,India,Store,Cash,35980
+TX0972,E-Reader,1,2681,2024-08-15,Akarsh Randhawa,Tamil Nadu,India,Store,Cash,2681
+TX0973,Printer,1,12636,2024-02-19,Arhaan Sastry,Punjab,India,Store,Debit Card,12636
+TX0974,Smartwatch,4,13973,2024-06-06,Zeeshan Chaudry,Arunachal Pradesh,India,Online,Credit Card,55892
+TX0975,Laptop,9,3769,2024-03-05,Hazel Balasubramanian,Arunachal Pradesh,India,Store,Debit Card,33921
+TX0976,Camera,4,12634,2023-11-21,Badal Bose,Gujarat,India,Direct,Cash,50536
+TX0977,Smartwatch,1,14486,2023-11-07,Amani Goel,Andhra Pradesh,India,Direct,Net Banking,14486
+TX0978,External Hard Drive,5,17047,2024-03-16,Ivan Verma,Uttar Pradesh,India,Direct,Credit Card,85235
+TX0979,Camera,5,15010,2023-10-31,Oorja Chokshi,Rajasthan,India,Store,Credit Card,75050
+TX0980,Headphones,1,6723,2023-11-01,Nehmat Gola,West Bengal,India,Online,UPI,6723
+TX0981,Camera,3,6550,2024-07-21,Ira Ramesh,Sikkim,India,Direct,Credit Card,19650
+TX0982,Desktop PC,6,4982,2023-10-10,Shanaya Arya,Andhra Pradesh,India,Direct,Credit Card,29892
+TX0983,Smartwatch,6,8257,2023-10-20,Umang Sagar,Mizoram,India,Direct,Credit Card,49542
+TX0984,Smartwatch,9,12024,2023-11-29,Seher Chahal,Assam,India,Store,Net Banking,108216
+TX0985,Headphones,3,2040,2024-07-09,Riya Chada,Jharkhand,India,Direct,Credit Card,6120
+TX0986,Headphones,8,14859,2023-12-18,Aarav Kurian,Rajasthan,India,Online,Cash,118872
+TX0987,Printer,4,3947,2024-07-07,Vihaan Singh,Odisha,India,Direct,Debit Card,15788
+TX0988,Desktop PC,7,2696,2024-03-25,Ivana Mahajan,Karnataka,India,Online,Credit Card,18872
+TX0989,Smartwatch,2,9295,2024-09-14,Aarav Grover,Karnataka,India,Online,UPI,18590
+TX0990,Smartwatch,1,3311,2024-04-15,Priyansh Kapadia,Rajasthan,India,Store,Net Banking,3311
+TX0991,Camera,3,4864,2024-03-11,Vardaniya Buch,Sikkim,India,Online,Debit Card,14592
+TX0992,Tablet,3,9147,2024-07-14,Prerak Chada,Gujarat,India,Online,Credit Card,27441
+TX0993,Smartwatch,6,6483,2024-07-27,Shaan Thakkar,Nagaland,India,Store,Cash,38898
+TX0994,Tablet,6,13092,2023-12-28,Lakshit Borra,Goa,India,Direct,Net Banking,78552
+TX0995,Laptop,2,5531,2023-10-10,Kabir Dixit,West Bengal,India,Online,Debit Card,11062
+TX0996,Desktop PC,3,16668,2024-03-02,Trisha Doctor,Karnataka,India,Store,Cash,50004
+TX0997,Printer,9,7752,2024-08-20,Kartik Gola,Telangana,India,Store,Debit Card,69768
+TX0998,Camera,8,6466,2024-06-23,Rhea Thaker,Jharkhand,India,Online,UPI,51728
+TX0999,Tablet,4,6409,2023-11-27,Tejas Dhar,Odisha,India,Store,Credit Card,25636
+TX1000,Tablet,8,2524,2023-12-04,Shaan Char,Odisha,India,Store,Net Banking,20192
